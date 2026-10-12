@@ -17,14 +17,23 @@ TABLE_FIELD_COLUMNS = {
     "订购入口设计.入口位置": "E",
     "订购入口设计.入口形式": "F",
     "订购入口设计.入口文案": "G",
+    "页面信息.业务信息展示.业务名称": "H",
+    "页面信息.业务信息展示.资费价格": "I",
+    "页面信息.业务信息展示.是否页面展示权益明细": "J",
+    "页面信息.业务信息展示.权益内容": "K",
+    "页面信息.业务信息展示.生效规则": "L",
+    "页面信息.业务信息展示.合约期": "M",
+    "页面信息.业务信息展示.退订提示": "N",
 }
 
 
 class TableRecordRow:
     """一行待填入测试记录表的数据。字段键使用完整分组路径避免重名。"""
 
-    def __init__(self, initial_fields: dict[str, Any] | None = None):
+    def __init__(self, initial_fields: dict[str, Any] | None = None,
+                 metadata: dict[str, Any] | None = None):
         self.fields: dict[str, Any] = dict(initial_fields or {})
+        self.metadata: dict[str, Any] = dict(metadata or {})
         self.evidence: list[dict[str, Any]] = []
 
     def set(self, field_path: str, value: Any) -> None:
@@ -44,7 +53,11 @@ class TableRecordRow:
         self.evidence.append(item)
 
     def to_dict(self) -> dict[str, Any]:
-        return {"fields": self.fields, "evidence": self.evidence}
+        return {
+            "fields": self.fields,
+            "metadata": self.metadata,
+            "evidence": self.evidence,
+        }
 
 
 class TableRecord:
@@ -55,14 +68,34 @@ class TableRecord:
         self.app_type = app_type
         self.app_name = app_name
         self.created_at = datetime.now().astimezone().isoformat(timespec="seconds")
+        self.entry_evidence: dict[str, Any] | None = None
+        self.marketing_pages: list[dict[str, Any]] = []
         self.rows: list[TableRecordRow] = []
 
-    def new_row(self, operator: str) -> TableRecordRow:
+    def add_entry_evidence(self, screenshot: str | None,
+                           visible_text: list[str]) -> None:
+        self.entry_evidence = {
+            "screenshot": screenshot,
+            "visible_text": visible_text,
+        }
+
+    def add_marketing_page(self, operator: str, screenshot: str | None,
+                           visible_text: list[str], offer_ids: list[str]) -> None:
+        """保存步骤 A 的页面证据；营销候选本身不创建正式套餐记录。"""
+        self.marketing_pages.append({
+            "operator": operator,
+            "screenshot": screenshot,
+            "visible_text": visible_text,
+            "offer_candidate_ids": offer_ids,
+        })
+
+    def new_row(self, operator: str,
+                metadata: dict[str, Any] | None = None) -> TableRecordRow:
         row = TableRecordRow({
             "APP类型": self.app_type,
             "APP名称": self.app_name,
             "运营商": operator,
-        })
+        }, metadata=metadata)
         self.rows.append(row)
         return row
 
@@ -72,6 +105,8 @@ class TableRecord:
             "source_test": self.test_name,
             "created_at": self.created_at,
             "field_columns": TABLE_FIELD_COLUMNS,
+            "entry_evidence": self.entry_evidence,
+            "marketing_pages": self.marketing_pages,
             "records": [row.to_dict() for row in self.rows],
         }
 

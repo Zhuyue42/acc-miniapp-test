@@ -10,10 +10,16 @@ from selenium.webdriver.support import expected_conditions as EC
 from datetime import datetime
 from pathlib import Path
 import xml.etree.ElementTree as ET
+import json
 import time
 import pytest
 
 APP_NAME = "bilibili"
+OFFER_CATALOG_PATH = Path(__file__).resolve().parent.parent / "test_data" / "bilibili_offer_candidates.json"
+OFFER_CATALOG = json.loads(OFFER_CATALOG_PATH.read_text(encoding="utf-8"))
+OFFER_CANDIDATES = OFFER_CATALOG["operators"]
+
+
 #logger = logging.getLogger("appium_calculator_test")
 @pytest.fixture
 def app_context():
@@ -81,7 +87,7 @@ def _visible_text(driver):
     return values
 
 
-def capture_operator_tab_switch(driver, wait, operator_rows, settle_time=2):
+def capture_operator_tab_switch(driver, wait, table_record, settle_time=2):
     """
     捕获运营商切换页面的截图。
     :param driver: Appium WebDriver 实例
@@ -89,11 +95,10 @@ def capture_operator_tab_switch(driver, wait, operator_rows, settle_time=2):
     :param settle_time: 截图前等待的时间（秒），默认 2,要等待页面渲染
     :return: 截图文件路径
     """
-    operators = ["移动", "电信","联通"]
+    operators = ["移动", "电信", "联通"]
     captured = 0
 
     for op in operators:
-        row = operator_rows[op]
         try:
             # 1. 点击运营商按钮
             tab = wait.until(EC.presence_of_element_located(
@@ -104,14 +109,15 @@ def capture_operator_tab_switch(driver, wait, operator_rows, settle_time=2):
             tab.click()
             logger.info(f"已点击运营商tab: {op},下方页面切换")
             screenshot_path = take_screenshot(driver, f"运营商_{op}", settle_time=settle_time)
-            row.add_evidence(
-                step=f"切换至{op}页面",
+            visible_text = _visible_text(driver)
+            table_record.add_marketing_page(
+                operator=op,
                 screenshot=screenshot_path,
-                visible_text=_visible_text(driver),
+                visible_text=visible_text,
+                offer_ids=[candidate["id"] for candidate in OFFER_CANDIDATES[op]],
             )
             captured += 1
         except Exception as e:
-            row.add_evidence(step=f"切换至{op}页面失败: {e}")
             logger.error(f"点击运营商tab: {op}失败，引发原因: {e}")
     logger.info(f"共捕获 {captured} 张运营商切换页面截图")
     return captured  
@@ -154,19 +160,8 @@ def test_bilibili_free_traffic(table_record, setup_driver):
     assert h5_element is not None
 
     # 该用例确认了进入页面的路径和入口文案；其他页面评估字段留待后续用例采集。
-    operator_rows = {}
-    for operator in ("移动", "电信", "联通"):
-        row = table_record.new_row(operator)
-        row.set("订购入口设计.入口位置", "我的-免流量服务")
-        row.set("订购入口设计.入口文案", "免流量服务")
-        row.add_evidence(
-            step="进入免流量服务页面",
-            screenshot=entry_screenshot,
-            visible_text=_visible_text(driver),
-        )
-        operator_rows[operator] = row
-
     #4.点击运营商tab切换，捕获截图
-    captured_count = capture_operator_tab_switch(driver, wait, operator_rows, settle_time=2)
+    table_record.add_entry_evidence(entry_screenshot, _visible_text(driver))
+    captured_count = capture_operator_tab_switch(driver, wait, table_record, settle_time=2)
     assert captured_count == 3, f"预期捕获3张运营商切换页面截图，实际捕获 {captured_count} 张"
 

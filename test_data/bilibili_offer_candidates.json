@@ -1,0 +1,164 @@
+{
+  "source": "用户提供的 B 站营销页截图人工转录；可订购状态尚未确认",
+  "operators": {
+    "移动": [
+      {
+        "id": "cmcc_member_data_15gb",
+        "name": "移动·哔哩哔哩会员流量包",
+        "description": "大会员月卡+15GB定向流量月月领",
+        "badge": "首月0.01元",
+        "price": "首月0.01元",
+        "call_to_action": ["大会员领取>", "领取流量>"],
+        "selected": false
+      },
+      {
+        "id": "cmcc_points_membership",
+        "name": "移动积分·兑会员",
+        "description": "1380积分兑换大会员月卡",
+        "badge": null,
+        "price": null,
+        "call_to_action": [],
+        "selected": false
+      },
+      {
+        "id": "cmcc_network_age_data",
+        "name": "移动·测网龄送通用流量",
+        "description": "更有精彩好礼等你来抽~",
+        "badge": null,
+        "price": null,
+        "call_to_action": [],
+        "selected": false
+      },
+      {
+        "id": "cmcc_bilibili_data_15gb",
+        "name": "移动·B站专属免流包",
+        "description": "15GB哔哩哔哩专属流量",
+        "badge": null,
+        "price": null,
+        "call_to_action": [],
+        "selected": false
+      }
+    ],
+    "电信": [
+      {
+        "id": "ct_member_data_2gb",
+        "name": "电信·哔哩哔哩会员流量包",
+        "description": "大会员月月领，还有2GB通用流量",
+        "badge": "大会员需领取",
+        "price": null,
+        "call_to_action": [],
+        "selected": false
+      },
+      {
+        "id": "ct_member_data_5gb",
+        "name": "电信·哔哩哔哩会员流量包",
+        "description": "5GB流量随心享，月月领B站大会员",
+        "badge": "大会员需领取",
+        "price": null,
+        "call_to_action": [],
+        "selected": false
+      },
+      {
+        "id": "ct_points_membership",
+        "name": "电信积分免费兑大会员",
+        "description": "2500积分兑换B站大会员月卡",
+        "badge": "积分兑换",
+        "price": null,
+        "call_to_action": [],
+        "selected": false
+      },
+      {
+        "id": "ct_hunan_member_data_15gb",
+        "name": "湖南电信会员流量包",
+        "description": "立享15GB定向流量+B站会员月卡",
+        "badge": "限湖南用户",
+        "price": null,
+        "call_to_action": [],
+        "selected": false
+      },
+      {
+        "id": "ct_tianyi_points_service",
+        "name": "电信·天翼积分服务号",
+        "description": "关注微信公众号，享电信积分兑会员",
+        "badge": null,
+        "price": null,
+        "call_to_action": [],
+        "selected": false
+      }
+    ],
+    "联通": [
+      {
+        "id": "unicom_member_continuous",
+        "name": "联通·会员流量连续包",
+        "description": "B站大会员月月自动发",
+        "badge": "首月1分钱",
+        "price": "首月1分钱",
+        "call_to_action": [],
+        "selected": false
+      },
+      {
+        "id": "unicom_points_membership",
+        "name": "联通积分兑换大会员",
+        "description": "积分畅兑哔哩哔哩大会员",
+        "badge": "积分兑换",
+        "price": null,
+        "call_to_action": [],
+        "selected": false
+      },
+      {
+        "id": "unicom_card_benefits",
+        "name": "哔哩哔哩卡福利社",
+        "description": "福利社兑换",
+        "badge": "福利点兑换",
+        "price": null,
+        "call_to_action": [],
+        "selected": false
+      },
+      {
+        "id": "unicom_broadband_bonus",
+        "name": "联通新装宽带送超大",
+        "description": "办宽带，限时送6个月超大",
+        "badge": null,
+        "price": null,
+        "call_to_action": [],
+        "selected": false
+      },
+      {
+        "id": "unicom_game_data_10gb",
+        "name": "联通·B站会员游戏流量包",
+        "description": "B站大会员+10GB游戏定向流量包",
+        "badge": null,
+        "price": null,
+        "call_to_action": [],
+        "selected": false
+      },
+      {
+        "id": "unicom_video_ringtone",
+        "name": "联通·视频彩铃限时福利",
+        "description": "订视频彩铃，抽送5个月大会员",
+        "badge": null,
+        "price": null,
+        "call_to_action": [],
+        "selected": false
+      },
+      {
+        "id": "unicom_member_data_15gb_benefit",
+        "name": "联通·会员流量优惠包",
+        "description": "B站大会员+15G定向流量",
+        "badge": null,
+        "price": null,
+        "call_to_action": ["会员领取>"],
+        "selected": false
+      },
+      {
+        "id": "unicom_member_data_15gb",
+        "name": "联通·B站会员流量包",
+        "description": "B站大会员+15G定向流量",
+        "badge": null,
+        "price": null,
+        "call_to_action": [],
+        "selected": false
+      }
+    ]
+  }
+}
