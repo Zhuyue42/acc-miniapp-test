@@ -98,7 +98,8 @@ def capture_operator_tab_switch(driver, wait, operator_rows, settle_time=2):
             # 1. 点击运营商按钮
             tab = wait.until(EC.presence_of_element_located(
                 (AppiumBy.ANDROID_UIAUTOMATOR,
-                f'new UiSelector().text("{op}").clickable(true)')
+                f'new UiSelector().className("android.widget.ListView")'
+                                 f'.childSelector(new UiSelector().text("{op}"))')
             ))
             tab.click()
             logger.info(f"已点击运营商tab: {op},下方页面切换")
@@ -125,7 +126,7 @@ def test_bilibili_free_traffic(table_record, setup_driver):
 
     #1.寻找底部【我的】按钮
     my_tab = wait.until(EC.presence_of_element_located(
-        (AppiumBy.ACCESSIBILITY_ID, "我的,5之5,标签")
+        (AppiumBy.ACCESSIBILITY_ID, "我的")
     ))
     my_tab.click()
     logger.info("已进入「我的」页面")
@@ -133,8 +134,10 @@ def test_bilibili_free_traffic(table_record, setup_driver):
 
     # 2. 点击「免流量服务」
     free_btn = wait.until(EC.presence_of_element_located(
-        (AppiumBy.ACCESSIBILITY_ID, "免流量服务")
-    ))
+        (AppiumBy.ANDROID_UIAUTOMATOR,
+         'new UiSelector().className("android.view.ViewGroup")'
+         '.childSelector(new UiSelector().text("免流量服务"))')
+         ))
     free_btn.click()
     logger.info("已点击「免流量服务」")
 

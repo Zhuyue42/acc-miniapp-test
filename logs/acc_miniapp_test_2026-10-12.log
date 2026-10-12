@@ -1,0 +1,89 @@
+2026-10-12 14:20:38 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-10-12 14:20:43 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-10-12 14:20:56 - INFO - test_bilibili_free_traffic:save_record - 表格字段记录已输出: D:\learn_code\test-apps-pay-flow\test-results\table_records\test_bilibili_free_traffic_20261012_142056_193146.json
+2026-10-12 14:20:56 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===
+2026-10-12 14:23:07 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-10-12 14:23:10 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-10-12 14:23:13 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已进入「我的」页面
+2026-10-12 14:23:25 - INFO - test_bilibili_free_traffic:save_record - 表格字段记录已输出: D:\learn_code\test-apps-pay-flow\test-results\table_records\test_bilibili_free_traffic_20261012_142325_050641.json
+2026-10-12 14:23:25 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===
+2026-10-12 14:25:40 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-10-12 14:25:44 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-10-12 14:25:47 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已进入「我的」页面
+2026-10-12 14:25:49 - INFO - test_bilibili_free_traffic:save_record - 表格字段记录已输出: D:\learn_code\test-apps-pay-flow\test-results\table_records\test_bilibili_free_traffic_20261012_142549_665421.json
+2026-10-12 14:25:49 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===
+2026-10-12 14:33:58 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-10-12 14:34:02 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-10-12 14:34:04 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已进入「我的」页面
+2026-10-12 14:34:05 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已点击「免流量服务」
+2026-10-12 14:34:09 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 免流量页面元素已找到
+2026-10-12 14:34:21 - ERROR - test_bilibili_free_traffic:capture_operator_tab_switch - 点击运营商tab: 移动失败，引发原因: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (file:///C:/Users/xiaowo/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-android-driver/build/lib/commands/find.js:54:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async AndroidUiautomator2Driver.findElOrElsWithProcessing (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:12:16)
+    at async AndroidUiautomator2Driver.findElement (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:28:16)
+    at async runCommandPromise (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\driver.js:119:24)
+2026-10-12 14:34:31 - ERROR - test_bilibili_free_traffic:capture_operator_tab_switch - 点击运营商tab: 电信失败，引发原因: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (file:///C:/Users/xiaowo/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-android-driver/build/lib/commands/find.js:54:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async AndroidUiautomator2Driver.findElOrElsWithProcessing (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:12:16)
+    at async AndroidUiautomator2Driver.findElement (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:28:16)
+    at async runCommandPromise (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\driver.js:119:24)
+2026-10-12 14:34:42 - ERROR - test_bilibili_free_traffic:capture_operator_tab_switch - 点击运营商tab: 联通失败，引发原因: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (file:///C:/Users/xiaowo/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-android-driver/build/lib/commands/find.js:54:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async AndroidUiautomator2Driver.findElOrElsWithProcessing (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:12:16)
+    at async AndroidUiautomator2Driver.findElement (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:28:16)
+    at async runCommandPromise (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\driver.js:119:24)
+2026-10-12 14:34:42 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 共捕获 0 张运营商切换页面截图
+2026-10-12 14:34:43 - INFO - test_bilibili_free_traffic:save_record - 表格字段记录已输出: D:\learn_code\test-apps-pay-flow\test-results\table_records\test_bilibili_free_traffic_20261012_143443_065445.json
+2026-10-12 14:34:43 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===
+2026-10-12 14:37:22 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-10-12 14:37:25 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-10-12 14:37:28 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已进入「我的」页面
+2026-10-12 14:37:29 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已点击「免流量服务」
+2026-10-12 14:37:33 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 免流量页面元素已找到
+2026-10-12 14:37:45 - ERROR - test_bilibili_free_traffic:capture_operator_tab_switch - 点击运营商tab: 移动失败，引发原因: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (file:///C:/Users/xiaowo/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-android-driver/build/lib/commands/find.js:54:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async AndroidUiautomator2Driver.findElOrElsWithProcessing (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:12:16)
+    at async AndroidUiautomator2Driver.findElement (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:28:16)
+    at async runCommandPromise (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\driver.js:119:24)
+2026-10-12 14:37:55 - ERROR - test_bilibili_free_traffic:capture_operator_tab_switch - 点击运营商tab: 电信失败，引发原因: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (file:///C:/Users/xiaowo/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-android-driver/build/lib/commands/find.js:54:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async AndroidUiautomator2Driver.findElOrElsWithProcessing (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:12:16)
+    at async AndroidUiautomator2Driver.findElement (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:28:16)
+    at async runCommandPromise (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\driver.js:119:24)
+2026-10-12 14:38:05 - ERROR - test_bilibili_free_traffic:capture_operator_tab_switch - 点击运营商tab: 联通失败，引发原因: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (file:///C:/Users/xiaowo/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-android-driver/build/lib/commands/find.js:54:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async AndroidUiautomator2Driver.findElOrElsWithProcessing (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:12:16)
+    at async AndroidUiautomator2Driver.findElement (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:28:16)
+    at async runCommandPromise (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\driver.js:119:24)
+2026-10-12 14:38:05 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 共捕获 0 张运营商切换页面截图
+2026-10-12 14:38:06 - INFO - test_bilibili_free_traffic:save_record - 表格字段记录已输出: D:\learn_code\test-apps-pay-flow\test-results\table_records\test_bilibili_free_traffic_20261012_143806_020652.json
+2026-10-12 14:38:06 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===
+2026-10-12 14:40:56 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-10-12 14:40:59 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-10-12 14:41:01 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已进入「我的」页面
+2026-10-12 14:41:02 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已点击「免流量服务」
+2026-10-12 14:41:07 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 免流量页面元素已找到
+2026-10-12 14:41:09 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 已点击运营商tab: 移动,下方页面切换
+2026-10-12 14:41:11 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 已点击运营商tab: 电信,下方页面切换
+2026-10-12 14:41:14 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 已点击运营商tab: 联通,下方页面切换
+2026-10-12 14:41:17 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 共捕获 3 张运营商切换页面截图
+2026-10-12 14:41:17 - INFO - test_bilibili_free_traffic:save_record - 表格字段记录已输出: D:\learn_code\test-apps-pay-flow\test-results\table_records\test_bilibili_free_traffic_20261012_144117_797912.json
+2026-10-12 14:41:17 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===
