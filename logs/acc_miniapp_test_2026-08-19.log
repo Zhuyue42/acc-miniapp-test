@@ -1,0 +1,20 @@
+2026-08-19 14:49:26 - DEBUG - logger_test:test_all_log_levels_output - 这条 DEBUG 不会出现在终端
+2026-08-19 14:49:26 - INFO - logger_test:test_all_log_levels_output - 你好世界 - INFO级别
+2026-08-19 14:49:26 - WARNING - logger_test:test_all_log_levels_output - 测试步骤 - WARNING级别
+2026-08-19 14:49:26 - ERROR - logger_test:test_all_log_levels_output - 出错了 - ERROR级别
+2026-08-19 14:49:26 - CRITICAL - logger_test:test_all_log_levels_output - 严重故障 - CRITICAL级别
+2026-08-19 14:56:07 - INFO - conftest:log_test_module - === 开始执行测试模块: logger_test / 测试函数: test_logger_has_handlers ===
+2026-08-19 14:56:07 - INFO - conftest:log_test_module - === 测试模块执行完毕: logger_test / 测试函数: test_logger_has_handlers===
+2026-08-19 14:56:07 - INFO - conftest:log_test_module - === 开始执行测试模块: logger_test / 测试函数: test_logger_propagate_disabled ===
+2026-08-19 14:56:07 - INFO - conftest:log_test_module - === 测试模块执行完毕: logger_test / 测试函数: test_logger_propagate_disabled===
+2026-08-19 14:56:07 - INFO - conftest:log_test_module - === 开始执行测试模块: logger_test / 测试函数: test_console_level_is_info ===
+2026-08-19 14:56:07 - INFO - conftest:log_test_module - === 测试模块执行完毕: logger_test / 测试函数: test_console_level_is_info===
+2026-08-19 14:56:07 - INFO - conftest:log_test_module - === 开始执行测试模块: logger_test / 测试函数: test_file_level_is_debug ===
+2026-08-19 14:56:07 - INFO - conftest:log_test_module - === 测试模块执行完毕: logger_test / 测试函数: test_file_level_is_debug===
+2026-08-19 14:56:07 - INFO - conftest:log_test_module - === 开始执行测试模块: logger_test / 测试函数: test_all_log_levels_output ===
+2026-08-19 14:56:07 - DEBUG - logger_test:test_all_log_levels_output - 这条 DEBUG 不会出现在终端
+2026-08-19 14:56:07 - INFO - logger_test:test_all_log_levels_output - 你好世界 - INFO级别
+2026-08-19 14:56:07 - WARNING - logger_test:test_all_log_levels_output - 测试步骤 - WARNING级别
+2026-08-19 14:56:07 - ERROR - logger_test:test_all_log_levels_output - 出错了 - ERROR级别
+2026-08-19 14:56:07 - CRITICAL - logger_test:test_all_log_levels_output - 严重故障 - CRITICAL级别
+2026-08-19 14:56:07 - INFO - conftest:log_test_module - === 测试模块执行完毕: logger_test / 测试函数: test_all_log_levels_output===

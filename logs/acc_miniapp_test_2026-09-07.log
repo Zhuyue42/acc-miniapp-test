@@ -1,0 +1,30 @@
+2026-09-07 14:41:53 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-09-07 14:41:58 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-07 14:42:00 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已进入「我的」页面
+2026-09-07 14:42:01 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已点击「免流量服务」
+2026-09-07 14:42:05 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 免流量页面元素已找到
+2026-09-07 14:42:06 - ERROR - test_bilibili_free_traffic:capture_operator_tab_switch - 点击运营商tab: 移动失败，引发原因: presence_of_all_elements_located() takes 1 positional argument but 2 were given
+2026-09-07 14:42:06 - ERROR - test_bilibili_free_traffic:capture_operator_tab_switch - 点击运营商tab: 电信失败，引发原因: presence_of_all_elements_located() takes 1 positional argument but 2 were given
+2026-09-07 14:42:06 - ERROR - test_bilibili_free_traffic:capture_operator_tab_switch - 点击运营商tab: 联通失败，引发原因: presence_of_all_elements_located() takes 1 positional argument but 2 were given
+2026-09-07 14:42:06 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 共捕获 0 张运营商切换页面截图
+2026-09-07 14:42:08 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===
+2026-09-07 15:00:05 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-09-07 15:00:08 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-07 15:00:10 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已进入「我的」页面
+2026-09-07 15:00:11 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已点击「免流量服务」
+2026-09-07 15:00:15 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 免流量页面元素已找到
+2026-09-07 15:00:16 - ERROR - test_bilibili_free_traffic:capture_operator_tab_switch - 点击运营商tab: 移动失败，引发原因: module 'selenium.webdriver.support.expected_conditions' has no attribute 'presence_of_elements_located'
+2026-09-07 15:00:16 - ERROR - test_bilibili_free_traffic:capture_operator_tab_switch - 点击运营商tab: 电信失败，引发原因: module 'selenium.webdriver.support.expected_conditions' has no attribute 'presence_of_elements_located'
+2026-09-07 15:00:16 - ERROR - test_bilibili_free_traffic:capture_operator_tab_switch - 点击运营商tab: 联通失败，引发原因: module 'selenium.webdriver.support.expected_conditions' has no attribute 'presence_of_elements_located'
+2026-09-07 15:00:16 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 共捕获 0 张运营商切换页面截图
+2026-09-07 15:00:16 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===
+2026-09-07 15:02:46 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-09-07 15:02:48 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-07 15:02:52 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已进入「我的」页面
+2026-09-07 15:02:53 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已点击「免流量服务」
+2026-09-07 15:02:57 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 免流量页面元素已找到
+2026-09-07 15:02:58 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 已点击运营商tab: 移动,下方页面切换
+2026-09-07 15:03:02 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 已点击运营商tab: 电信,下方页面切换
+2026-09-07 15:03:04 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 已点击运营商tab: 联通,下方页面切换
+2026-09-07 15:03:06 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 共捕获 3 张运营商切换页面截图
+2026-09-07 15:03:07 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===

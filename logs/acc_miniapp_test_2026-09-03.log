@@ -1,0 +1,27 @@
+
+
+
+2026-09-03 15:15:51 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-09-03 15:15:54 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-03 15:15:56 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已进入「我的」页面
+2026-09-03 15:15:59 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已点击「免流量服务」
+2026-09-03 15:16:03 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 免流量页面元素已找到
+2026-09-03 15:16:04 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===
+2026-09-03 15:31:18 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-09-03 15:31:21 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-03 15:31:23 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已进入「我的」页面
+2026-09-03 15:31:24 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已点击「免流量服务」
+2026-09-03 15:31:27 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 免流量页面元素已找到
+2026-09-03 15:31:28 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===
+2026-09-03 15:31:44 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-09-03 15:31:46 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-03 15:31:49 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已进入「我的」页面
+2026-09-03 15:31:50 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已点击「免流量服务」
+2026-09-03 15:31:53 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 免流量页面元素已找到
+2026-09-03 15:31:54 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===
+2026-09-03 16:10:12 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-09-03 16:10:14 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-03 16:10:17 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已进入「我的」页面
+2026-09-03 16:10:18 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已点击「免流量服务」
+2026-09-03 16:10:22 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 免流量页面元素已找到
+2026-09-03 16:10:23 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===

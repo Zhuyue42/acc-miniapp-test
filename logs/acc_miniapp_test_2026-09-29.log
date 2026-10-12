@@ -1,0 +1,18 @@
+2026-09-29 11:08:39 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_topup / 测试函数: test_bilibili_free_traffic ===
+2026-09-29 11:08:39 - INFO - test_taobao_topup:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-29 11:08:46 - INFO - appium_actions:wait_for_element - 已定位元素: 滑动容器
+2026-09-29 11:08:50 - INFO - appium_actions:swipe_on_element - 已完成滑动: 首页横向容器滑动到第二页
+2026-09-29 11:08:52 - INFO - appium_actions:screenshot - 已截图: 滑动切换后_第二页 -> screenshots\2026-09-29\com.taobao.taobao\滑动切换后_第二页_110851.png
+2026-09-29 11:08:52 - INFO - test_taobao_topup:test_bilibili_free_traffic - 已定位到 HorizontalScrollView 容器
+2026-09-29 11:09:03 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_topup / 测试函数: test_bilibili_free_traffic===
+2026-09-29 11:09:39 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_topup / 测试函数: test_bilibili_free_traffic ===
+2026-09-29 11:09:39 - INFO - test_taobao_topup:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-29 11:09:44 - INFO - appium_actions:wait_for_element - 已定位元素: 滑动容器
+2026-09-29 11:09:48 - INFO - appium_actions:swipe_on_element - 已完成滑动: 首页横向容器滑动到第二页
+2026-09-29 11:09:50 - INFO - appium_actions:screenshot - 已截图: 滑动切换后_第二页 -> screenshots\2026-09-29\com.taobao.taobao\滑动切换后_第二页_110949.png
+2026-09-29 11:09:50 - INFO - test_taobao_topup:test_bilibili_free_traffic - 已定位到 HorizontalScrollView 容器
+2026-09-29 11:09:50 - INFO - appium_actions:wait_for_element - 已定位元素: 充值中心
+2026-09-29 11:09:52 - INFO - appium_actions:click_element - 已点击: 充值中心
+2026-09-29 11:09:56 - INFO - appium_actions:wait_for_element - 已定位元素: 充流量tab
+2026-09-29 11:09:56 - INFO - appium_actions:click_element - 已点击: 充流量tab
+2026-09-29 11:10:00 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_topup / 测试函数: test_bilibili_free_traffic===

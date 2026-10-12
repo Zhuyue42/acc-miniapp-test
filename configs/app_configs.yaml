@@ -1,0 +1,86 @@
+#待测app的设置
+#视频类app
+
+#b站
+bilibili:
+  type: video
+  capabilities:
+    platformName: Android
+    platformVersion: "16"
+    deviceName: b6a5a7b0
+    automationName: UiAutomator2
+    appPackage: tv.danmaku.bili
+    appActivity: tv.danmaku.bili.MainActivityV2
+    noReset: true
+
+#爱奇艺
+iqiyi:
+  type: video
+  capabilities:
+    platformName: Android
+    platformVersion: "16"
+    deviceName: b6a5a7b0
+    automationName: UiAutomator2
+    appPackage: com.qiyi.video
+    appActivity: com.qiyi.video.WelcomeActivity
+    noReset: true
+
+#优酷视频
+youku:
+  type: video
+  capabilities:
+    platformName: Android
+    platformVersion: "16"
+    deviceName: b6a5a7b0
+    automationName: UiAutomator2
+    appPackage: com.youku.phone
+    appActivity: com.youku.kuflix.RootPageActivity
+    noReset: true
+
+#腾讯视频
+tencentqqlive:
+  type: video
+  capabilities:
+    platformName: Android
+    platformVersion: "16"
+    deviceName: b6a5a7b0
+    automationName: UiAutomator2
+    appPackage: com.tencent.qqlive
+    appActivity: com.tencent.qqlive.ona.activity.SplashHomeActivity
+    noReset: true
+
+#--------------------------------------------
+#音乐类app 
+qqmusic:
+  type: music
+  capabilities:
+    platformName: Android
+    platformVersion: "16"
+    deviceName: b6a5a7b0
+    automationName: UiAutomator2
+    appPackage: com.tencent.qqmusic
+    appActivity: com.tencent.qqmusic.activity.AppStarterActivity
+    noReset: true
+
+kugoumusic:
+  type: music
+  capabilities:
+    platformName: Android
+    platformVersion: "16"
+    deviceName: b6a5a7b0
+    automationName: UiAutomator2
+    appPackage: com.kugou.android
+    appActivity: com.kugou.android.app.splash.SplashActivity
+    noReset: true
+
+
+taobao:
+  type: shopping
+  capabilities:
+    platformName: Android
+    platformVersion: "16"
+    deviceName: b6a5a7b0
+    automationName: UiAutomator2
+    appPackage: com.taobao.taobao
+    appActivity: com.taobao.taobao.TBMainActivity
+    noReset: true

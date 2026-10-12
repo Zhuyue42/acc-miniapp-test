@@ -1,0 +1,75 @@
+2026-10-08 11:30:28 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_topup / 测试函数: test_taobao_topup ===
+2026-10-08 11:30:28 - INFO - test_taobao_topup:test_taobao_topup - 开始淘宝流量充值页面测试
+2026-10-08 11:30:34 - INFO - appium_actions:wait_for_element - 已定位元素: 滑动容器
+2026-10-08 11:30:38 - INFO - appium_actions:swipe_on_element - 已完成滑动: 首页横向容器滑动到第二页
+2026-10-08 11:30:40 - INFO - appium_actions:screenshot - 已截图: 滑动切换后_第二页 -> screenshots\2026-10-08\com.taobao.taobao\滑动切换后_第二页_113039.png
+2026-10-08 11:30:40 - INFO - test_taobao_topup:test_taobao_topup - 已定位到页面中部HorizontalScrollView 容器，可滑动。
+2026-10-08 11:30:40 - INFO - appium_actions:wait_for_element - 已定位元素: 充值中心
+2026-10-08 11:30:41 - INFO - appium_actions:click_element - 已点击: 充值中心
+2026-10-08 11:30:44 - INFO - test_taobao_topup:test_taobao_topup - 充值中心页面已截图。
+2026-10-08 11:30:54 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_topup / 测试函数: test_taobao_topup===
+2026-10-08 11:44:05 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_topup / 测试函数: test_taobao_topup ===
+2026-10-08 11:44:05 - INFO - test_taobao_topup:test_taobao_topup - 开始淘宝流量充值页面测试
+2026-10-08 11:44:11 - INFO - appium_actions:wait_for_element - 已定位元素: 滑动容器
+2026-10-08 11:44:16 - INFO - appium_actions:swipe_on_element - 已完成滑动: 首页横向容器滑动到第二页
+2026-10-08 11:44:18 - INFO - appium_actions:screenshot - 已截图: 滑动切换后_第二页 -> screenshots\2026-10-08\com.taobao.taobao\滑动切换后_第二页_114417.png
+2026-10-08 11:44:18 - INFO - test_taobao_topup:test_taobao_topup - 已定位到页面中部HorizontalScrollView 容器，可滑动。
+2026-10-08 11:44:29 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_topup / 测试函数: test_taobao_topup===
+2026-10-08 11:44:38 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_topup / 测试函数: test_taobao_topup ===
+2026-10-08 11:44:38 - INFO - test_taobao_topup:test_taobao_topup - 开始淘宝流量充值页面测试
+2026-10-08 11:44:43 - INFO - appium_actions:wait_for_element - 已定位元素: 滑动容器
+2026-10-08 11:44:47 - INFO - appium_actions:swipe_on_element - 已完成滑动: 首页横向容器滑动到第二页
+2026-10-08 11:44:49 - INFO - appium_actions:screenshot - 已截图: 滑动切换后_第二页 -> screenshots\2026-10-08\com.taobao.taobao\滑动切换后_第二页_114448.png
+2026-10-08 11:44:49 - INFO - test_taobao_topup:test_taobao_topup - 已定位到页面中部HorizontalScrollView 容器，可滑动。
+2026-10-08 11:44:49 - INFO - appium_actions:wait_for_element - 已定位元素: 充值中心
+2026-10-08 11:44:50 - INFO - appium_actions:click_element - 已点击: 充值中心
+2026-10-08 11:44:53 - INFO - test_taobao_topup:test_taobao_topup - 充值中心页面已截图。
+2026-10-08 11:44:53 - INFO - appium_actions:wait_for_element - 已定位元素: 充流量tab
+2026-10-08 11:44:55 - INFO - appium_actions:click_element - 已点击: 充流量tab
+2026-10-08 11:44:58 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_topup / 测试函数: test_taobao_topup===
+2026-10-08 16:30:03 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_topup / 测试函数: test_taobao_topup ===
+2026-10-08 16:30:03 - INFO - test_taobao_topup:test_taobao_topup - 开始淘宝流量充值页面测试
+2026-10-08 16:30:10 - INFO - appium_actions:wait_for_element - 已定位元素: 滑动容器
+2026-10-08 16:30:13 - INFO - appium_actions:swipe_on_element - 已完成滑动: 首页横向容器滑动到第二页
+2026-10-08 16:30:15 - INFO - appium_actions:screenshot - 已截图: 滑动切换后_第二页 -> screenshots\2026-10-08\com.taobao.taobao\滑动切换后_第二页_163014.png
+2026-10-08 16:30:15 - INFO - test_taobao_topup:test_taobao_topup - 已定位到页面中部HorizontalScrollView 容器，可滑动。
+2026-10-08 16:30:16 - INFO - appium_actions:wait_for_element - 已定位元素: 充值中心
+2026-10-08 16:30:17 - INFO - appium_actions:click_element - 已点击: 充值中心
+2026-10-08 16:30:19 - INFO - test_taobao_topup:test_taobao_topup - 充值中心页面已截图。
+2026-10-08 16:30:20 - INFO - appium_actions:wait_for_element - 已定位元素: 充流量tab
+2026-10-08 16:30:21 - INFO - appium_actions:click_element - 已点击: 充流量tab
+2026-10-08 16:30:24 - INFO - appium_actions:wait_for_element - 已定位元素: 手机号输入框
+2026-10-08 16:30:24 - INFO - shopping_flow:read_phone_number - 手机号输入框 当前号码: 
+2026-10-08 16:30:24 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_topup / 测试函数: test_taobao_topup===
+2026-10-08 17:15:19 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_topup / 测试函数: test_taobao_topup ===
+2026-10-08 17:15:19 - INFO - test_taobao_topup:test_taobao_topup - 开始淘宝流量充值页面测试
+2026-10-08 17:15:25 - INFO - appium_actions:wait_for_element - 已定位元素: 滑动容器
+2026-10-08 17:15:29 - INFO - appium_actions:swipe_on_element - 已完成滑动: 首页横向容器滑动到第二页
+2026-10-08 17:15:31 - INFO - appium_actions:screenshot - 已截图: 滑动切换后_第二页 -> screenshots\2026-10-08\com.taobao.taobao\滑动切换后_第二页_171530.png
+2026-10-08 17:15:31 - INFO - test_taobao_topup:test_taobao_topup - 已定位到页面中部HorizontalScrollView 容器，可滑动。
+2026-10-08 17:15:31 - INFO - appium_actions:wait_for_element - 已定位元素: 充值中心
+2026-10-08 17:15:33 - INFO - appium_actions:click_element - 已点击: 充值中心
+2026-10-08 17:15:36 - INFO - test_taobao_topup:test_taobao_topup - 充值中心页面已截图。
+2026-10-08 17:15:37 - INFO - appium_actions:wait_for_element - 已定位元素: 充流量tab
+2026-10-08 17:15:37 - INFO - appium_actions:click_element - 已点击: 充流量tab
+2026-10-08 17:15:39 - INFO - appium_actions:wait_for_element - 已定位元素: 手机号输入框
+2026-10-08 17:15:39 - INFO - shopping_flow:read_phone_number - 手机号输入框 当前号码: 超级爆款
+2026-10-08 17:15:39 - INFO - test_taobao_topup:test_taobao_topup - 流量充值页输入框已回填账号绑定号码: 超级爆款
+2026-10-08 17:15:42 - INFO - appium_actions:screenshot - 已截图: 流量充值页面-默认填充绑定号码 -> screenshots\2026-10-08\com.taobao.taobao\流量充值页面-默认填充绑定号码_171542.png
+2026-10-08 17:15:43 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_topup / 测试函数: test_taobao_topup===
+2026-10-08 17:17:14 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_topup / 测试函数: test_taobao_topup ===
+2026-10-08 17:17:14 - INFO - test_taobao_topup:test_taobao_topup - 开始淘宝流量充值页面测试
+2026-10-08 17:17:21 - INFO - appium_actions:wait_for_element - 已定位元素: 滑动容器
+2026-10-08 17:17:24 - INFO - appium_actions:swipe_on_element - 已完成滑动: 首页横向容器滑动到第二页
+2026-10-08 17:17:26 - INFO - appium_actions:screenshot - 已截图: 滑动切换后_第二页 -> screenshots\2026-10-08\com.taobao.taobao\滑动切换后_第二页_171725.png
+2026-10-08 17:17:26 - INFO - test_taobao_topup:test_taobao_topup - 已定位到页面中部HorizontalScrollView 容器，可滑动。
+2026-10-08 17:17:27 - INFO - appium_actions:wait_for_element - 已定位元素: 充值中心
+2026-10-08 17:17:27 - INFO - appium_actions:click_element - 已点击: 充值中心
+2026-10-08 17:17:29 - INFO - test_taobao_topup:test_taobao_topup - 充值中心页面已截图。
+2026-10-08 17:17:29 - INFO - appium_actions:wait_for_element - 已定位元素: 充流量tab
+2026-10-08 17:17:29 - INFO - appium_actions:click_element - 已点击: 充流量tab
+2026-10-08 17:17:32 - INFO - appium_actions:wait_for_element - 已定位元素: 手机号输入框
+2026-10-08 17:17:32 - INFO - shopping_flow:read_phone_number - 手机号输入框 当前号码: 151 3719 2847
+2026-10-08 17:17:32 - INFO - test_taobao_topup:test_taobao_topup - 流量充值页输入框已回填账号绑定号码: 151 3719 2847
+2026-10-08 17:17:35 - INFO - appium_actions:screenshot - 已截图: 流量充值页面-默认填充绑定号码 -> screenshots\2026-10-08\com.taobao.taobao\流量充值页面-默认填充绑定号码_171734.png
+2026-10-08 17:17:35 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_topup / 测试函数: test_taobao_topup===

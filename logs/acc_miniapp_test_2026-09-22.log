@@ -1,0 +1,78 @@
+2026-09-22 10:32:43 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-09-22 10:32:43 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-22 10:33:01 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===
+2026-09-22 10:40:32 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-09-22 10:40:32 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-22 10:40:37 - INFO - appium_actions:wait_for_element - 已定位元素: 我的页面
+2026-09-22 10:40:37 - INFO - appium_actions:click_element - 已点击: 我的页面
+2026-09-22 10:40:50 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===
+2026-09-22 11:24:48 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-09-22 11:24:48 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-22 11:24:54 - INFO - appium_actions:wait_for_element - 已定位元素: 我的页面
+2026-09-22 11:24:55 - INFO - appium_actions:click_element - 已点击: 我的页面
+2026-09-22 11:24:57 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量服务
+2026-09-22 11:24:57 - INFO - appium_actions:click_element - 已点击: 免流量服务
+2026-09-22 11:25:01 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量页面元素
+2026-09-22 11:25:04 - INFO - appium_actions:screenshot - 已截图: 运营商推广页面 -> screenshots\2026-09-22\tv.danmaku.bili\运营商推广页面_112503.png
+2026-09-22 11:25:14 - ERROR - base_flow:switch_operator_tabs - 点击运营商tab 移动 失败: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (file:///C:/Users/xiaowo/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-android-driver/build/lib/commands/find.js:54:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async AndroidUiautomator2Driver.findElOrElsWithProcessing (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:12:16)
+    at async AndroidUiautomator2Driver.findElement (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:28:16)
+    at async runCommandPromise (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\driver.js:119:24)
+2026-09-22 11:25:24 - ERROR - base_flow:switch_operator_tabs - 点击运营商tab 电信 失败: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (file:///C:/Users/xiaowo/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-android-driver/build/lib/commands/find.js:54:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async AndroidUiautomator2Driver.findElOrElsWithProcessing (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:12:16)
+    at async AndroidUiautomator2Driver.findElement (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:28:16)
+    at async runCommandPromise (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\driver.js:119:24)
+2026-09-22 11:25:34 - ERROR - base_flow:switch_operator_tabs - 点击运营商tab 联通 失败: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (file:///C:/Users/xiaowo/.appium/node_modules/appium-uiautomator2-driver/node_modules/appium-android-driver/build/lib/commands/find.js:54:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async AndroidUiautomator2Driver.findElOrElsWithProcessing (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:12:16)
+    at async AndroidUiautomator2Driver.findElement (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\commands\find.js:28:16)
+    at async runCommandPromise (D:\npm_global\node_modules\appium\node_modules\@appium\base-driver\build\lib\basedriver\driver.js:119:24)
+2026-09-22 11:25:35 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===
+2026-09-22 11:47:56 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-09-22 11:47:56 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-22 11:48:02 - INFO - appium_actions:wait_for_element - 已定位元素: 我的页面
+2026-09-22 11:48:02 - INFO - appium_actions:click_element - 已点击: 我的页面
+2026-09-22 11:48:03 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量服务
+2026-09-22 11:48:03 - INFO - appium_actions:click_element - 已点击: 免流量服务
+2026-09-22 11:48:08 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量页面元素
+2026-09-22 11:48:10 - INFO - appium_actions:screenshot - 已截图: 运营商推广页面 -> screenshots\2026-09-22\tv.danmaku.bili\运营商推广页面_114810.png
+2026-09-22 11:48:10 - INFO - appium_actions:wait_for_element - 已定位元素: 移动 tab
+2026-09-22 11:48:11 - INFO - appium_actions:click_element - 已点击: 移动 tab
+2026-09-22 11:48:14 - INFO - appium_actions:wait_for_element - 已定位元素: 电信 tab
+2026-09-22 11:48:14 - INFO - appium_actions:click_element - 已点击: 电信 tab
+2026-09-22 11:48:16 - INFO - appium_actions:wait_for_element - 已定位元素: 联通 tab
+2026-09-22 11:48:16 - INFO - appium_actions:click_element - 已点击: 联通 tab
+2026-09-22 11:48:19 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===
+2026-09-22 14:45:12 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-09-22 14:45:12 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-22 14:45:18 - INFO - appium_actions:wait_for_element - 已定位元素: 我的页面
+2026-09-22 14:45:18 - INFO - appium_actions:click_element - 已点击: 我的页面
+2026-09-22 14:45:20 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量服务
+2026-09-22 14:45:21 - INFO - appium_actions:click_element - 已点击: 免流量服务
+2026-09-22 14:45:35 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===
+2026-09-22 14:45:55 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-09-22 14:45:55 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-22 14:46:01 - INFO - appium_actions:wait_for_element - 已定位元素: 我的页面
+2026-09-22 14:46:02 - INFO - appium_actions:click_element - 已点击: 我的页面
+2026-09-22 14:46:03 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量服务
+2026-09-22 14:46:03 - INFO - appium_actions:click_element - 已点击: 免流量服务
+2026-09-22 14:46:08 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量页面元素
+2026-09-22 14:46:10 - INFO - appium_actions:screenshot - 已截图: 运营商推广页面 -> screenshots\2026-09-22\tv.danmaku.bili\运营商推广页面_144610.png
+2026-09-22 14:46:10 - INFO - appium_actions:wait_for_element - 已定位元素: 移动 tab
+2026-09-22 14:46:11 - INFO - appium_actions:click_element - 已点击: 移动 tab
+2026-09-22 14:46:14 - INFO - appium_actions:wait_for_element - 已定位元素: 电信 tab
+2026-09-22 14:46:14 - INFO - appium_actions:click_element - 已点击: 电信 tab
+2026-09-22 14:46:17 - INFO - appium_actions:wait_for_element - 已定位元素: 联通 tab
+2026-09-22 14:46:17 - INFO - appium_actions:click_element - 已点击: 联通 tab
+2026-09-22 14:46:20 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===

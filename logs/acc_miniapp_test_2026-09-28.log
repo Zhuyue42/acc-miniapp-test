@@ -1,0 +1,5 @@
+2026-09-28 14:43:12 - INFO - conftest:log_test_module - === 开始执行测试模块: test_adb_sms / 测试函数: test_get_latest_sms ===
+2026-09-28 14:43:12 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_adb_sms / 测试函数: test_get_latest_sms===
+2026-09-28 14:43:49 - INFO - conftest:log_test_module - === 开始执行测试模块: test_adb_sms / 测试函数: test_get_latest_sms ===
+2026-09-28 14:43:49 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_adb_sms / 测试函数: test_get_latest_sms===
+2026-09-28 14:57:16 - INFO - adb_sms:get_latest_sms - 获取到最新短信: {'id': 189, 'address': '10086', 'body': '【充值提醒】尊敬的客户，您好！充值金额50.00元，余额64.66元。了解本月已使用话费情况，请发送102到10086查询。快速安全交费，登录中国移动 APP https://dx.10086.cn/A/MEZ3HA 。【中国移动】', 'date': 1790559675564}

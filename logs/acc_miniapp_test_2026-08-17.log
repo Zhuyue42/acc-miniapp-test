@@ -1,0 +1,5 @@
+2026-08-17 16:13:12 - DEBUG - acc_test - 这条 DEBUG 不会出现在终端
+2026-08-17 16:13:12 - INFO - acc_test - 你好世界 - INFO级别
+2026-08-17 16:13:12 - WARNING - acc_test - 测试步骤 - WARNING级别
+2026-08-17 16:13:12 - ERROR - acc_test - 出错了 - ERROR级别
+2026-08-17 16:13:12 - CRITICAL - acc_test - 严重故障 - CRITICAL级别

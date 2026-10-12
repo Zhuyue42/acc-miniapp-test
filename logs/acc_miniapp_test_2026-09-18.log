@@ -1,0 +1,52 @@
+2026-09-18 14:05:42 - INFO - conftest:log_test_module - === 开始执行测试模块: test_kugou_music / 测试函数: test_kugou_mobile_topup_page ===
+2026-09-18 14:05:45 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 开始酷狗音乐充值页面进入测试
+2026-09-18 14:05:48 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「更多」按钮
+2026-09-18 14:05:56 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「听歌免流量按钮」
+2026-09-18 14:05:59 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「联通」tab
+2026-09-18 14:06:02 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「电信」tab
+2026-09-18 14:06:05 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_kugou_music / 测试函数: test_kugou_mobile_topup_page===
+2026-09-18 17:03:42 - INFO - conftest:log_test_module - === 开始执行测试模块: test_kugou_music / 测试函数: test_kugou_mobile_topup_page ===
+2026-09-18 17:03:45 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 开始酷狗音乐充值页面进入测试
+2026-09-18 17:03:48 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「更多」按钮
+2026-09-18 17:03:53 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「听歌免流量按钮」
+2026-09-18 17:03:56 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已定位到投放滑动页,第 1次滑动前
+2026-09-18 17:04:03 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已完成第1次滑动操作并截图
+2026-09-18 17:04:03 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已定位到投放滑动页,第 2次滑动前
+2026-09-18 17:04:10 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已完成第2次滑动操作并截图
+2026-09-18 17:04:10 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已定位到投放滑动页,第 3次滑动前
+2026-09-18 17:04:16 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已完成第3次滑动操作并截图
+2026-09-18 17:04:16 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已定位到投放滑动页,第 4次滑动前
+2026-09-18 17:04:23 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已完成第4次滑动操作并截图
+2026-09-18 17:04:23 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「联通」tab
+2026-09-18 17:04:26 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「电信」tab
+2026-09-18 17:04:29 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_kugou_music / 测试函数: test_kugou_mobile_topup_page===
+2026-09-18 17:05:34 - INFO - conftest:log_test_module - === 开始执行测试模块: test_kugou_music / 测试函数: test_kugou_mobile_topup_page ===
+2026-09-18 17:05:36 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 开始酷狗音乐充值页面进入测试
+2026-09-18 17:05:40 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「更多」按钮
+2026-09-18 17:05:42 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「听歌免流量按钮」
+2026-09-18 17:05:45 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已定位到投放滑动页,第 1次滑动前
+2026-09-18 17:05:50 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已完成第1次滑动操作并截图
+2026-09-18 17:05:50 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已定位到投放滑动页,第 2次滑动前
+2026-09-18 17:05:56 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已完成第2次滑动操作并截图
+2026-09-18 17:05:56 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已定位到投放滑动页,第 3次滑动前
+2026-09-18 17:06:01 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已完成第3次滑动操作并截图
+2026-09-18 17:06:01 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已定位到投放滑动页,第 4次滑动前
+2026-09-18 17:06:06 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已完成第4次滑动操作并截图
+2026-09-18 17:06:06 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「联通」tab
+2026-09-18 17:06:09 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「电信」tab
+2026-09-18 17:06:12 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_kugou_music / 测试函数: test_kugou_mobile_topup_page===
+2026-09-18 17:09:15 - INFO - conftest:log_test_module - === 开始执行测试模块: test_kugou_music / 测试函数: test_kugou_mobile_topup_page ===
+2026-09-18 17:09:18 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 开始酷狗音乐充值页面进入测试
+2026-09-18 17:09:21 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「更多」按钮
+2026-09-18 17:09:23 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「听歌免流量按钮」
+2026-09-18 17:09:27 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已定位到投放滑动页,第 1次滑动前
+2026-09-18 17:09:32 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已完成第1次滑动操作并截图
+2026-09-18 17:09:32 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已定位到投放滑动页,第 2次滑动前
+2026-09-18 17:09:37 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已完成第2次滑动操作并截图
+2026-09-18 17:09:37 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已定位到投放滑动页,第 3次滑动前
+2026-09-18 17:09:42 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已完成第3次滑动操作并截图
+2026-09-18 17:09:42 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已定位到投放滑动页,第 4次滑动前
+2026-09-18 17:09:48 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已完成第4次滑动操作并截图
+2026-09-18 17:09:48 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「联通」tab
+2026-09-18 17:09:50 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「电信」tab
+2026-09-18 17:09:54 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_kugou_music / 测试函数: test_kugou_mobile_topup_page===

@@ -1,0 +1,41 @@
+2026-09-16 16:35:36 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0] ===
+2026-09-16 16:35:48 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0]===
+2026-09-16 16:37:15 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0] ===
+2026-09-16 16:37:18 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 开始淘宝移动充值页面滑动切换测试
+2026-09-16 16:37:20 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已定位到 HorizontalScrollView 容器
+2026-09-16 16:37:32 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0]===
+2026-09-16 17:16:21 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0] ===
+2026-09-16 17:16:25 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 开始淘宝移动充值页面滑动切换测试
+2026-09-16 17:16:28 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已定位到 HorizontalScrollView 容器
+2026-09-16 17:16:34 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已点击「充值中心」
+2026-09-16 17:16:37 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0]===
+2026-09-16 17:17:07 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0] ===
+2026-09-16 17:17:10 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 开始淘宝移动充值页面滑动切换测试
+2026-09-16 17:17:12 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已定位到 HorizontalScrollView 容器
+2026-09-16 17:17:18 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已点击「充值中心」
+2026-09-16 17:17:21 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0]===
+2026-09-16 17:36:11 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0] ===
+2026-09-16 17:36:14 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 开始淘宝移动充值页面滑动切换测试
+2026-09-16 17:36:16 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已定位到 HorizontalScrollView 容器
+2026-09-16 17:36:23 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已点击「充值中心」
+2026-09-16 17:36:36 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0]===
+2026-09-16 17:38:07 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0] ===
+2026-09-16 17:38:10 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 开始淘宝移动充值页面滑动切换测试
+2026-09-16 17:38:12 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已定位到 HorizontalScrollView 容器
+2026-09-16 17:38:20 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已点击「充值中心」
+2026-09-16 17:38:33 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0]===
+2026-09-16 17:42:19 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0] ===
+2026-09-16 17:42:22 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 开始淘宝移动充值页面滑动切换测试
+2026-09-16 17:42:24 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已定位到 HorizontalScrollView 容器
+2026-09-16 17:42:33 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已点击「充值中心」
+2026-09-16 17:42:46 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0]===
+2026-09-16 17:45:51 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0] ===
+2026-09-16 17:45:54 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 开始淘宝移动充值页面滑动切换测试
+2026-09-16 17:45:56 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已定位到 HorizontalScrollView 容器
+2026-09-16 17:46:12 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0]===
+2026-09-16 17:46:39 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0] ===
+2026-09-16 17:46:43 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 开始淘宝移动充值页面滑动切换测试
+2026-09-16 17:46:45 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已定位到 HorizontalScrollView 容器
+2026-09-16 17:46:55 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已点击「充值中心」
+2026-09-16 17:46:58 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已点击「充流量」tab
+2026-09-16 17:47:01 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0]===

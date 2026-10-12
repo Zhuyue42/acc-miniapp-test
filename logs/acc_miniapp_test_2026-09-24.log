@@ -1,0 +1,117 @@
+2026-09-24 10:05:42 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic ===
+2026-09-24 10:05:42 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 开始腾讯视频免流服务订购页面进入测试
+2026-09-24 10:05:47 - INFO - appium_actions:wait_for_element - 已定位元素: 腾讯视频-个人中心
+2026-09-24 10:05:48 - INFO - appium_actions:click_element - 已点击: 腾讯视频-个人中心
+2026-09-24 10:05:50 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量服务
+2026-09-24 10:05:50 - INFO - appium_actions:click_element - 已点击: 免流量服务
+2026-09-24 10:06:05 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic===
+2026-09-24 10:12:28 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic ===
+2026-09-24 10:12:28 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 开始腾讯视频免流服务订购页面进入测试
+2026-09-24 10:12:34 - INFO - appium_actions:wait_for_element - 已定位元素: 腾讯视频-个人中心
+2026-09-24 10:12:35 - INFO - appium_actions:click_element - 已点击: 腾讯视频-个人中心
+2026-09-24 10:12:36 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量服务
+2026-09-24 10:12:36 - INFO - appium_actions:click_element - 已点击: 免流量服务
+2026-09-24 10:12:40 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量页面元素
+2026-09-24 10:12:43 - INFO - appium_actions:screenshot - 已截图: 运营商推广页面 -> screenshots\2026-09-24\com.tencent.qqlive\运营商推广页面_101242.png
+2026-09-24 10:12:43 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic===
+2026-09-24 10:17:00 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic ===
+2026-09-24 10:17:00 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 开始腾讯视频免流服务订购页面进入测试
+2026-09-24 10:17:05 - INFO - appium_actions:wait_for_element - 已定位元素: 腾讯视频-个人中心
+2026-09-24 10:17:06 - INFO - appium_actions:click_element - 已点击: 腾讯视频-个人中心
+2026-09-24 10:17:07 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量服务
+2026-09-24 10:17:07 - INFO - appium_actions:click_element - 已点击: 免流量服务
+2026-09-24 10:17:11 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量页面元素
+2026-09-24 10:17:14 - INFO - appium_actions:screenshot - 已截图: 运营商推广页面 -> screenshots\2026-09-24\com.tencent.qqlive\运营商推广页面_101713.png
+2026-09-24 10:17:15 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic===
+2026-09-24 10:17:29 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic ===
+2026-09-24 10:17:29 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 开始腾讯视频免流服务订购页面进入测试
+2026-09-24 10:17:41 - INFO - appium_actions:wait_for_element - 已定位元素: 腾讯视频-个人中心
+2026-09-24 10:17:41 - INFO - appium_actions:click_element - 已点击: 腾讯视频-个人中心
+2026-09-24 10:17:54 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic===
+2026-09-24 10:17:57 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic ===
+2026-09-24 10:17:57 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 开始腾讯视频免流服务订购页面进入测试
+2026-09-24 10:18:03 - INFO - appium_actions:wait_for_element - 已定位元素: 腾讯视频-个人中心
+2026-09-24 10:18:04 - INFO - appium_actions:click_element - 已点击: 腾讯视频-个人中心
+2026-09-24 10:18:06 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量服务
+2026-09-24 10:18:06 - INFO - appium_actions:click_element - 已点击: 免流量服务
+2026-09-24 10:18:09 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量页面元素
+2026-09-24 10:18:12 - INFO - appium_actions:screenshot - 已截图: 运营商推广页面 -> screenshots\2026-09-24\com.tencent.qqlive\运营商推广页面_101812.png
+2026-09-24 10:18:12 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「移动」tab (坐标: 200, 2000)
+2026-09-24 10:18:15 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「电信」tab (坐标: 600, 2000)
+2026-09-24 10:18:18 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「联通」tab (坐标: 1000, 2000)
+2026-09-24 10:18:21 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic===
+2026-09-24 10:20:27 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic ===
+2026-09-24 10:20:27 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 开始腾讯视频免流服务订购页面进入测试
+2026-09-24 10:20:34 - INFO - appium_actions:wait_for_element - 已定位元素: 腾讯视频-个人中心
+2026-09-24 10:20:34 - INFO - appium_actions:click_element - 已点击: 腾讯视频-个人中心
+2026-09-24 10:20:36 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量服务
+2026-09-24 10:20:36 - INFO - appium_actions:click_element - 已点击: 免流量服务
+2026-09-24 10:20:40 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量页面元素
+2026-09-24 10:20:42 - INFO - appium_actions:screenshot - 已截图: 运营商推广页面 -> screenshots\2026-09-24\com.tencent.qqlive\运营商推广页面_102042.png
+2026-09-24 10:20:42 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「移动」tab (坐标: 200, 2100)
+2026-09-24 10:20:45 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「电信」tab (坐标: 600, 2100)
+2026-09-24 10:20:48 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「联通」tab (坐标: 1000, 2100)
+2026-09-24 10:20:51 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic===
+2026-09-24 10:41:42 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic ===
+2026-09-24 10:41:42 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 开始腾讯视频免流服务订购页面进入测试
+2026-09-24 10:41:48 - INFO - appium_actions:wait_for_element - 已定位元素: 腾讯视频-个人中心
+2026-09-24 10:41:49 - INFO - appium_actions:click_element - 已点击: 腾讯视频-个人中心
+2026-09-24 10:41:50 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量服务
+2026-09-24 10:41:50 - INFO - appium_actions:click_element - 已点击: 免流量服务
+2026-09-24 10:41:54 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量页面元素
+2026-09-24 10:41:57 - INFO - appium_actions:screenshot - 已截图: 运营商推广页面 -> screenshots\2026-09-24\com.tencent.qqlive\运营商推广页面_104156.png
+2026-09-24 10:42:00 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已向上滑动页面
+2026-09-24 10:42:01 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「移动」tab (坐标: 200, 400)
+2026-09-24 10:42:03 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「电信」tab (坐标: 600, 400)
+2026-09-24 10:42:06 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「联通」tab (坐标: 1000, 400)
+2026-09-24 10:42:46 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic ===
+2026-09-24 10:42:46 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 开始腾讯视频免流服务订购页面进入测试
+2026-09-24 10:42:51 - INFO - appium_actions:wait_for_element - 已定位元素: 腾讯视频-个人中心
+2026-09-24 10:42:52 - INFO - appium_actions:click_element - 已点击: 腾讯视频-个人中心
+2026-09-24 10:42:53 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量服务
+2026-09-24 10:42:53 - INFO - appium_actions:click_element - 已点击: 免流量服务
+2026-09-24 10:42:57 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量页面元素
+2026-09-24 10:43:00 - INFO - appium_actions:screenshot - 已截图: 运营商推广页面 -> screenshots\2026-09-24\com.tencent.qqlive\运营商推广页面_104259.png
+2026-09-24 10:43:04 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已向上滑动页面
+2026-09-24 10:43:05 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「移动」tab (坐标: 200, 400)
+2026-09-24 10:43:08 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「电信」tab (坐标: 600, 400)
+2026-09-24 10:43:11 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic===
+2026-09-24 10:43:46 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic ===
+2026-09-24 10:43:46 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 开始腾讯视频免流服务订购页面进入测试
+2026-09-24 10:43:51 - INFO - appium_actions:wait_for_element - 已定位元素: 腾讯视频-个人中心
+2026-09-24 10:43:52 - INFO - appium_actions:click_element - 已点击: 腾讯视频-个人中心
+2026-09-24 10:43:53 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量服务
+2026-09-24 10:43:53 - INFO - appium_actions:click_element - 已点击: 免流量服务
+2026-09-24 10:43:57 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量页面元素
+2026-09-24 10:44:00 - INFO - appium_actions:screenshot - 已截图: 运营商推广页面 -> screenshots\2026-09-24\com.tencent.qqlive\运营商推广页面_104359.png
+2026-09-24 10:44:05 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已向上滑动页面
+2026-09-24 10:44:06 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「移动」tab (坐标: 200, 400)
+2026-09-24 10:44:09 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「电信」tab (坐标: 600, 400)
+2026-09-24 10:44:12 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「联通」tab (坐标: 1000, 400)
+2026-09-24 10:44:15 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic===
+2026-09-24 10:44:47 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic ===
+2026-09-24 10:44:47 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 开始腾讯视频免流服务订购页面进入测试
+2026-09-24 10:44:52 - INFO - appium_actions:wait_for_element - 已定位元素: 腾讯视频-个人中心
+2026-09-24 10:44:52 - INFO - appium_actions:click_element - 已点击: 腾讯视频-个人中心
+2026-09-24 10:44:54 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量服务
+2026-09-24 10:44:54 - INFO - appium_actions:click_element - 已点击: 免流量服务
+2026-09-24 10:44:58 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量页面元素
+2026-09-24 10:45:00 - INFO - appium_actions:screenshot - 已截图: 运营商推广页面 -> screenshots\2026-09-24\com.tencent.qqlive\运营商推广页面_104500.png
+2026-09-24 10:45:06 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已向上滑动页面
+2026-09-24 10:45:07 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「移动」tab (坐标: 200, 400)
+2026-09-24 10:45:09 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「电信」tab (坐标: 600, 400)
+2026-09-24 10:45:12 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「联通」tab (坐标: 1000, 400)
+2026-09-24 10:45:15 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic===
+2026-09-24 10:47:06 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic ===
+2026-09-24 10:47:06 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 开始腾讯视频免流服务订购页面进入测试
+2026-09-24 10:47:11 - INFO - appium_actions:wait_for_element - 已定位元素: 腾讯视频-个人中心
+2026-09-24 10:47:12 - INFO - appium_actions:click_element - 已点击: 腾讯视频-个人中心
+2026-09-24 10:47:13 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量服务
+2026-09-24 10:47:13 - INFO - appium_actions:click_element - 已点击: 免流量服务
+2026-09-24 10:47:17 - INFO - appium_actions:wait_for_element - 已定位元素: 免流量页面元素
+2026-09-24 10:47:20 - INFO - appium_actions:screenshot - 已截图: 运营商推广页面 -> screenshots\2026-09-24\com.tencent.qqlive\运营商推广页面_104719.png
+2026-09-24 10:47:25 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已向上滑动页面
+2026-09-24 10:47:26 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「移动」tab (坐标: 200, 500)
+2026-09-24 10:47:29 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「联通」tab (坐标: 600, 500)
+2026-09-24 10:47:31 - INFO - test_qqlive_free_traffic:test_tencentqqlive_free_traffic - 已点击「电信」tab (坐标: 1000, 500)
+2026-09-24 10:47:34 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qqlive_free_traffic / 测试函数: test_tencentqqlive_free_traffic===

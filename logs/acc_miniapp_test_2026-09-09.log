@@ -1,0 +1,35 @@
+2026-09-09 11:39:01 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic ===
+2026-09-09 11:39:01 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic===
+2026-09-09 11:43:42 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic[app_context0] ===
+2026-09-09 11:43:47 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-09 11:43:49 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已进入「我的」页面
+2026-09-09 11:43:51 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已点击「免流量服务」
+2026-09-09 11:43:55 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 免流量页面元素已找到
+2026-09-09 11:43:56 - ERROR - test_bilibili_free_traffic:capture_operator_tab_switch - 点击运营商tab: 移动失败，引发原因: module 'selenium.webdriver.support.expected_conditions' has no attribute 'presence_of_elements_located'
+2026-09-09 11:43:56 - ERROR - test_bilibili_free_traffic:capture_operator_tab_switch - 点击运营商tab: 电信失败，引发原因: module 'selenium.webdriver.support.expected_conditions' has no attribute 'presence_of_elements_located'
+2026-09-09 11:43:56 - ERROR - test_bilibili_free_traffic:capture_operator_tab_switch - 点击运营商tab: 联通失败，引发原因: module 'selenium.webdriver.support.expected_conditions' has no attribute 'presence_of_elements_located'
+2026-09-09 11:43:56 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 共捕获 0 张运营商切换页面截图
+2026-09-09 11:43:57 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic[app_context0]===
+2026-09-09 11:44:49 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic[app_context0] ===
+2026-09-09 11:44:51 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-09 11:44:53 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已进入「我的」页面
+2026-09-09 11:44:54 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已点击「免流量服务」
+2026-09-09 11:44:58 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 免流量页面元素已找到
+2026-09-09 11:45:00 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 已点击运营商tab: 移动,下方页面切换
+2026-09-09 11:45:02 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 已点击运营商tab: 电信,下方页面切换
+2026-09-09 11:45:04 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 已点击运营商tab: 联通,下方页面切换
+2026-09-09 11:45:07 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 共捕获 3 张运营商切换页面截图
+2026-09-09 11:45:07 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic[app_context0]===
+2026-09-09 15:25:45 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic[app_context0] ===
+2026-09-09 15:25:51 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-09 15:26:05 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic[app_context0]===
+2026-09-09 15:26:22 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic[app_context0] ===
+2026-09-09 15:26:25 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-09 15:26:27 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已进入「我的」页面
+2026-09-09 15:26:30 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 已点击「免流量服务」
+2026-09-09 15:26:34 - INFO - test_bilibili_free_traffic:test_bilibili_free_traffic - 免流量页面元素已找到
+2026-09-09 15:26:36 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 已点击运营商tab: 移动,下方页面切换
+2026-09-09 15:26:39 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 已点击运营商tab: 电信,下方页面切换
+2026-09-09 15:26:41 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 已点击运营商tab: 联通,下方页面切换
+2026-09-09 15:26:44 - INFO - test_bilibili_free_traffic:capture_operator_tab_switch - 共捕获 3 张运营商切换页面截图
+2026-09-09 15:26:44 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic[app_context0]===

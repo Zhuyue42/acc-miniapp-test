@@ -1,0 +1,16 @@
+
+2026-09-02 11:33:52 - INFO - conftest:log_test_module - === 开始执行测试模块: test_appium_caculator / 测试函数: test_bilibili_free_traffic ===
+2026-09-02 11:33:55 - INFO - test_appium_caculator:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-02 11:34:08 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_appium_caculator / 测试函数: test_bilibili_free_traffic===
+2026-09-02 11:34:45 - INFO - conftest:log_test_module - === 开始执行测试模块: test_appium_caculator / 测试函数: test_bilibili_free_traffic ===
+2026-09-02 11:34:48 - INFO - test_appium_caculator:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-02 11:34:51 - INFO - test_appium_caculator:test_bilibili_free_traffic - 已进入「我的」页面
+2026-09-02 11:34:52 - INFO - test_appium_caculator:test_bilibili_free_traffic - 已点击「免流量服务」
+2026-09-02 11:34:55 - INFO - test_appium_caculator:test_bilibili_free_traffic - 当前可用上下文: ['NATIVE_APP']
+2026-09-02 11:34:56 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_appium_caculator / 测试函数: test_bilibili_free_traffic===
+2026-09-02 15:05:22 - INFO - conftest:log_test_module - === 开始执行测试模块: test_appium_caculator / 测试函数: test_bilibili_free_traffic ===
+2026-09-02 15:05:26 - INFO - test_appium_caculator:test_bilibili_free_traffic - 开始B站免流服务订购页面进入测试
+2026-09-02 15:05:31 - INFO - test_appium_caculator:test_bilibili_free_traffic - 已进入「我的」页面
+2026-09-02 15:05:31 - INFO - test_appium_caculator:test_bilibili_free_traffic - 已点击「免流量服务」
+2026-09-02 15:05:34 - INFO - test_appium_caculator:test_bilibili_free_traffic - 免流量页面元素已找到
+2026-09-02 15:05:35 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_appium_caculator / 测试函数: test_bilibili_free_traffic===

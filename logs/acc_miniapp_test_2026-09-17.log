@@ -1,0 +1,51 @@
+2026-09-17 10:46:09 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0] ===
+2026-09-17 10:46:13 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 开始淘宝移动充值页面滑动切换测试
+2026-09-17 10:46:15 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已定位到 HorizontalScrollView 容器
+2026-09-17 10:46:24 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已点击「充值中心」
+2026-09-17 10:46:27 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已点击「充流量」tab
+2026-09-17 10:46:32 - INFO - test_taobao_mobile_topup:fill_input - 已输入: 18601724406
+2026-09-17 10:46:32 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0]===
+2026-09-17 10:54:50 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0] ===
+2026-09-17 10:54:54 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 开始淘宝移动充值页面滑动切换测试
+2026-09-17 10:54:56 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已定位到 HorizontalScrollView 容器
+2026-09-17 10:55:04 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已点击「充值中心」
+2026-09-17 10:55:08 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已点击「充流量」tab
+2026-09-17 10:55:13 - INFO - test_taobao_mobile_topup:fill_input - 已输入: 18601724406
+2026-09-17 10:55:13 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0]===
+2026-09-17 10:58:29 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0] ===
+2026-09-17 10:58:32 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 开始淘宝移动充值页面滑动切换测试
+2026-09-17 10:58:34 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已定位到 HorizontalScrollView 容器
+2026-09-17 10:58:43 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已点击「充值中心」
+2026-09-17 10:58:47 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已点击「充流量」tab
+2026-09-17 10:58:52 - INFO - test_taobao_mobile_topup:fill_input - 已输入: 18601724406
+2026-09-17 10:58:52 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 更换手机号为上海联通测试号码： 18601724406
+2026-09-17 10:58:56 - INFO - test_taobao_mobile_topup:fill_input - 已输入: 13301988888
+2026-09-17 10:58:56 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 更换手机号为上海联通测试号码： 13301988888
+2026-09-17 10:58:59 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0]===
+2026-09-17 11:00:08 - INFO - conftest:log_test_module - === 开始执行测试模块: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0] ===
+2026-09-17 11:00:11 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 开始淘宝移动充值页面滑动切换测试
+2026-09-17 11:00:13 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已定位到 HorizontalScrollView 容器
+2026-09-17 11:00:19 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已点击「充值中心」
+2026-09-17 11:00:24 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 已点击「充流量」tab
+2026-09-17 11:00:28 - INFO - test_taobao_mobile_topup:fill_input - 已输入: 18601724406
+2026-09-17 11:00:28 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 更换手机号为上海联通测试号码： 18601724406
+2026-09-17 11:00:33 - INFO - test_taobao_mobile_topup:fill_input - 已输入: 13301986958
+2026-09-17 11:00:33 - INFO - test_taobao_mobile_topup:test_taobao_mobile_topup - 更换手机号为上海联通测试号码： 13301986958
+2026-09-17 11:00:36 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_taobao_mobile_topup / 测试函数: test_taobao_mobile_topup[app_context0]===
+2026-09-17 17:18:17 - INFO - conftest:log_test_module - === 开始执行测试模块: test_kugou_music / 测试函数: test_kugou_mobile_topup_page ===
+2026-09-17 17:18:21 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 开始酷狗音乐充值页面进入测试
+2026-09-17 17:18:23 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「更多」按钮
+2026-09-17 17:18:25 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「听歌免流量按钮」
+2026-09-17 17:18:28 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_kugou_music / 测试函数: test_kugou_mobile_topup_page===
+2026-09-17 17:35:28 - INFO - conftest:log_test_module - === 开始执行测试模块: test_kugou_music / 测试函数: test_kugou_mobile_topup_page ===
+2026-09-17 17:35:32 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 开始酷狗音乐充值页面进入测试
+2026-09-17 17:35:34 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「更多」按钮
+2026-09-17 17:35:36 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「听歌免流量按钮」
+2026-09-17 17:35:39 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「移动」tab
+2026-09-17 17:35:42 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_kugou_music / 测试函数: test_kugou_mobile_topup_page===
+2026-09-17 17:35:59 - INFO - conftest:log_test_module - === 开始执行测试模块: test_kugou_music / 测试函数: test_kugou_mobile_topup_page ===
+2026-09-17 17:36:02 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 开始酷狗音乐充值页面进入测试
+2026-09-17 17:36:06 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「更多」按钮
+2026-09-17 17:36:08 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「听歌免流量按钮」
+2026-09-17 17:36:11 - INFO - test_kugou_music:test_kugou_mobile_topup_page - 已点击「联通」tab
+2026-09-17 17:36:14 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_kugou_music / 测试函数: test_kugou_mobile_topup_page===

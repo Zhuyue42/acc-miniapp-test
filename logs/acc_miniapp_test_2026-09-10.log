@@ -1,0 +1,20 @@
+2026-09-10 10:57:23 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic[app_context0] ===
+2026-09-10 10:57:23 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic[app_context0]===
+2026-09-10 10:58:18 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic[app_context0] ===
+2026-09-10 10:58:18 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_free_traffic / 测试函数: test_bilibili_free_traffic[app_context0]===
+2026-09-10 10:59:25 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qq_music_promotion_page / 测试函数: test_promotion_page[app_context0] ===
+2026-09-10 10:59:25 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qq_music_promotion_page / 测试函数: test_promotion_page[app_context0]===
+2026-09-10 11:00:30 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qq_music_promotion_page / 测试函数: test_promotion_page[app_context0] ===
+2026-09-10 11:00:34 - INFO - test_qq_music_promotion_page:test_promotion_page - 开始QQ音乐运营商推广订购页面进入测试
+2026-09-10 11:00:40 - INFO - test_qq_music_promotion_page:test_promotion_page - 已进入「我的」页面
+2026-09-10 11:00:44 - INFO - test_qq_music_promotion_page:test_promotion_page - 已点击「更多」按钮
+2026-09-10 11:00:45 - INFO - test_qq_music_promotion_page:test_promotion_page - 已点击「移动用户免流送会员」
+2026-09-10 11:00:48 - INFO - test_qq_music_promotion_page:test_promotion_page - 已点击「免流量听歌送会员」
+2026-09-10 11:00:50 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qq_music_promotion_page / 测试函数: test_promotion_page[app_context0]===
+2026-09-10 11:05:13 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qq_music_promotion_page / 测试函数: test_promotion_page[app_context0] ===
+2026-09-10 11:05:16 - INFO - test_qq_music_promotion_page:test_promotion_page - 开始QQ音乐运营商推广订购页面进入测试
+2026-09-10 11:05:22 - INFO - test_qq_music_promotion_page:test_promotion_page - 已进入「我的」页面
+2026-09-10 11:05:24 - INFO - test_qq_music_promotion_page:test_promotion_page - 已点击「更多」按钮
+2026-09-10 11:05:26 - INFO - test_qq_music_promotion_page:test_promotion_page - 已点击「移动用户免流送会员」
+2026-09-10 11:05:31 - INFO - test_qq_music_promotion_page:test_promotion_page - 已点击「免流量听歌送会员」
+2026-09-10 11:05:34 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qq_music_promotion_page / 测试函数: test_promotion_page[app_context0]===

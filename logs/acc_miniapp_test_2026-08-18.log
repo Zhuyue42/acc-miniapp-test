@@ -1,0 +1,15 @@
+2026-08-18 14:25:25 - DEBUG - acc_test - 这条 DEBUG 不会出现在终端
+2026-08-18 14:25:25 - INFO - acc_test - 你好世界 - INFO级别
+2026-08-18 14:25:25 - WARNING - acc_test - 测试步骤 - WARNING级别
+2026-08-18 14:25:25 - ERROR - acc_test - 出错了 - ERROR级别
+2026-08-18 14:25:25 - CRITICAL - acc_test - 严重故障 - CRITICAL级别
+2026-08-18 14:28:04 - DEBUG - acc_test - 这条 DEBUG 不会出现在终端
+2026-08-18 14:28:04 - INFO - acc_test - 你好世界 - INFO级别
+2026-08-18 14:28:04 - WARNING - acc_test - 测试步骤 - WARNING级别
+2026-08-18 14:28:04 - ERROR - acc_test - 出错了 - ERROR级别
+2026-08-18 14:28:04 - CRITICAL - acc_test - 严重故障 - CRITICAL级别
+2026-08-18 14:31:16 - DEBUG - acc_test - 这条 DEBUG 不会出现在终端
+2026-08-18 14:31:16 - INFO - acc_test - 你好世界 - INFO级别
+2026-08-18 14:31:16 - WARNING - acc_test - 测试步骤 - WARNING级别
+2026-08-18 14:31:16 - ERROR - acc_test - 出错了 - ERROR级别
+2026-08-18 14:31:16 - CRITICAL - acc_test - 严重故障 - CRITICAL级别
