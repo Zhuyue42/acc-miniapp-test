@@ -1,0 +1,4 @@
+2026-10-19 09:53:51 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_order_stage / 测试函数: test_create_offer_record_output ===
+2026-10-19 09:53:51 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_order_stage / 测试函数: test_create_offer_record_output===
+2026-10-19 09:54:07 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_order_stage / 测试函数: test_create_offer_record_output ===
+2026-10-19 09:54:07 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_order_stage / 测试函数: test_create_offer_record_output===

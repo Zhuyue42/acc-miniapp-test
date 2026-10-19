@@ -9,7 +9,7 @@ from typing import Any
 from common.table_record import TableRecord, TableRecordRow
 
 
-CATALOG_PATH = Path(__file__).resolve().parent.parent / "test_data" / "bilibili_offer_candidates.json"
+CATALOG_PATH = Path(__file__).resolve().parent.parent.parent / "test_data" / "bilibili_offer_candidates.json"
 
 
 def load_catalog(path: str | Path = CATALOG_PATH) -> dict[str, Any]:

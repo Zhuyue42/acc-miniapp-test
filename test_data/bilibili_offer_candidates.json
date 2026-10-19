@@ -9,7 +9,7 @@
         "badge": "首月0.01元",
         "price": "首月0.01元",
         "call_to_action": ["大会员领取>", "领取流量>"],
-        "selected": false
+        "selected": true
       },
       {
         "id": "cmcc_points_membership",
