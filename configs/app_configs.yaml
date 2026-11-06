@@ -51,7 +51,7 @@ tencentqqlive:
 
 #--------------------------------------------
 #音乐类app 
-qqmusic:
+qq_music:
   type: music
   capabilities:
     platformName: Android
@@ -62,7 +62,7 @@ qqmusic:
     appActivity: com.tencent.qqmusic.activity.AppStarterActivity
     noReset: true
 
-kugoumusic:
+kugou_music:
   type: music
   capabilities:
     platformName: Android
@@ -72,6 +72,7 @@ kugoumusic:
     appPackage: com.kugou.android
     appActivity: com.kugou.android.app.splash.SplashActivity
     noReset: true
+    waitForIdleTimeout: 1000    # 默认10000ms；音乐App动画不停，缩短它
 
 
 taobao:

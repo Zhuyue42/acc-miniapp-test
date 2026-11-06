@@ -8,5 +8,6 @@ wheels/
 recordings/
 screenshots/
 test-results/
+logs/
 # Virtual environments
 .venv

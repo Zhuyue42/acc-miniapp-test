@@ -1,6 +1,5 @@
 from common.flows.base_flow import BaseFlow
 
-
 class ShoppingFlow(BaseFlow):
     def open_entry(self, locator, entry_name, screenshot_name=None, settle_time=1):
         return self.click(locator, desc=entry_name, screenshot_name=screenshot_name, settle_time=settle_time)

@@ -2,3 +2,158 @@
 2026-10-19 09:53:51 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_order_stage / 测试函数: test_create_offer_record_output===
 2026-10-19 09:54:07 - INFO - conftest:log_test_module - === 开始执行测试模块: test_bilibili_order_stage / 测试函数: test_create_offer_record_output ===
 2026-10-19 09:54:07 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_bilibili_order_stage / 测试函数: test_create_offer_record_output===
+2026-10-19 16:02:36 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic ===
+2026-10-19 16:02:36 - INFO - test_qq_music_operator_product:test_qq_music_free_traffic - 开始QQ音乐免流服务订购页面进入测试
+2026-10-19 16:02:36 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic===
+2026-10-19 16:03:40 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic ===
+2026-10-19 16:03:40 - INFO - test_qq_music_operator_product:test_qq_music_free_traffic - 开始QQ音乐免流服务订购页面进入测试
+2026-10-19 16:03:57 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic===
+2026-10-19 16:06:04 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic ===
+2026-10-19 16:06:04 - INFO - test_qq_music_operator_product:test_qq_music_free_traffic - 开始QQ音乐免流服务订购页面进入测试
+2026-10-19 16:06:09 - INFO - appium_actions:wait_for_element - 已定位元素: 我的页面
+2026-10-19 16:06:10 - INFO - appium_actions:click_element - 已点击: 我的页面
+2026-10-19 16:06:23 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic===
+2026-10-19 16:08:38 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic ===
+2026-10-19 16:08:38 - INFO - test_qq_music_operator_product:test_qq_music_free_traffic - 开始QQ音乐免流服务订购页面进入测试
+2026-10-19 16:08:43 - INFO - appium_actions:wait_for_element - 已定位元素: 我的页面
+2026-10-19 16:08:44 - INFO - appium_actions:click_element - 已点击: 我的页面
+2026-10-19 16:08:45 - INFO - appium_actions:wait_for_element - 已定位元素: 右上角-更多
+2026-10-19 16:08:46 - INFO - appium_actions:click_element - 已点击: 右上角-更多
+2026-10-19 16:08:48 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic===
+2026-10-19 16:24:24 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic ===
+2026-10-19 16:24:24 - INFO - test_qq_music_operator_product:test_qq_music_free_traffic - 开始QQ音乐免流服务订购页面进入测试
+2026-10-19 16:24:30 - INFO - appium_actions:wait_for_element - 已定位元素: 我的页面
+2026-10-19 16:24:32 - INFO - appium_actions:click_element - 已点击: 我的页面
+2026-10-19 16:24:36 - INFO - appium_actions:wait_for_element - 已定位元素: 右上角-更多
+2026-10-19 16:24:37 - INFO - appium_actions:click_element - 已点击: 右上角-更多
+2026-10-19 16:24:39 - INFO - appium_actions:wait_for_element - 已定位元素: 移动运营商推广入口
+2026-10-19 16:24:39 - INFO - appium_actions:click_element - 已点击: 移动运营商推广入口
+2026-10-19 16:24:41 - INFO - appium_actions:wait_for_element - 已定位元素: 联通电信运营商推广入口
+2026-10-19 16:24:44 - INFO - appium_actions:click_element - 已点击: 联通电信运营商推广入口
+2026-10-19 16:24:47 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic===
+2026-10-19 16:27:17 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic ===
+2026-10-19 16:27:17 - INFO - test_qq_music_operator_product:test_qq_music_free_traffic - 开始QQ音乐免流服务订购页面进入测试
+2026-10-19 16:27:24 - INFO - appium_actions:wait_for_element - 已定位元素: 我的页面
+2026-10-19 16:27:25 - INFO - appium_actions:click_element - 已点击: 我的页面
+2026-10-19 16:27:27 - INFO - appium_actions:wait_for_element - 已定位元素: 右上角-更多
+2026-10-19 16:27:28 - INFO - appium_actions:click_element - 已点击: 右上角-更多
+2026-10-19 16:27:30 - INFO - appium_actions:wait_for_element - 已定位元素: 移动运营商推广入口
+2026-10-19 16:27:30 - INFO - appium_actions:click_element - 已点击: 移动运营商推广入口
+2026-10-19 16:27:32 - INFO - appium_actions:wait_for_element - 已定位元素: 返回上一页
+2026-10-19 16:27:33 - INFO - appium_actions:click_element - 已点击: 返回上一页
+2026-10-19 16:27:36 - INFO - appium_actions:wait_for_element - 已定位元素: 联通电信运营商推广入口
+2026-10-19 16:27:36 - INFO - appium_actions:click_element - 已点击: 联通电信运营商推广入口
+2026-10-19 16:27:38 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic===
+2026-10-19 16:53:16 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic ===
+2026-10-19 16:53:16 - INFO - test_qq_music_operator_product:test_qq_music_free_traffic - 开始QQ音乐免流服务订购页面进入测试
+2026-10-19 16:53:22 - INFO - appium_actions:wait_for_element - 已定位元素: 我的页面
+2026-10-19 16:53:22 - INFO - appium_actions:click_element - 已点击: 我的页面
+2026-10-19 16:53:25 - INFO - appium_actions:wait_for_element - 已定位元素: 右上角-更多
+2026-10-19 16:53:26 - INFO - appium_actions:click_element - 已点击: 右上角-更多
+2026-10-19 16:53:27 - INFO - appium_actions:wait_for_element - 已定位元素: 移动运营商推广入口
+2026-10-19 16:53:27 - INFO - appium_actions:click_element - 已点击: 移动运营商推广入口
+2026-10-19 16:53:30 - INFO - appium_actions:wait_for_element - 已定位元素: 中国移动xQQ音乐随心听
+2026-10-19 16:53:30 - INFO - appium_actions:click_element - 已点击: 中国移动xQQ音乐随心听
+2026-10-19 16:53:33 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic===
+2026-10-19 16:58:07 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic ===
+2026-10-19 16:58:07 - INFO - test_qq_music_operator_product:test_qq_music_free_traffic - 开始QQ音乐免流服务订购页面进入测试
+2026-10-19 16:58:12 - INFO - appium_actions:wait_for_element - 已定位元素: 我的页面
+2026-10-19 16:58:12 - INFO - appium_actions:click_element - 已点击: 我的页面
+2026-10-19 16:58:14 - INFO - appium_actions:wait_for_element - 已定位元素: 右上角-更多
+2026-10-19 16:58:15 - INFO - appium_actions:click_element - 已点击: 右上角-更多
+2026-10-19 16:58:17 - INFO - appium_actions:wait_for_element - 已定位元素: 移动运营商推广入口
+2026-10-19 16:58:17 - INFO - appium_actions:click_element - 已点击: 移动运营商推广入口
+2026-10-19 16:58:20 - INFO - appium_actions:wait_for_element - 已定位元素: 中国移动xQQ音乐随心听
+2026-10-19 16:58:21 - INFO - appium_actions:click_element - 已点击: 中国移动xQQ音乐随心听
+2026-10-19 16:58:24 - INFO - appium_actions:wait_for_element - 已定位元素: 中国移动xQQ音乐随心听活动说明器
+2026-10-19 16:58:25 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic===
+2026-10-19 17:10:15 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic ===
+2026-10-19 17:10:15 - INFO - test_qq_music_operator_product:test_qq_music_free_traffic - 开始QQ音乐免流服务订购页面进入测试
+2026-10-19 17:10:21 - INFO - appium_actions:wait_for_element - 已定位元素: 我的页面
+2026-10-19 17:10:21 - INFO - appium_actions:click_element - 已点击: 我的页面
+2026-10-19 17:10:23 - INFO - appium_actions:wait_for_element - 已定位元素: 右上角-更多
+2026-10-19 17:10:24 - INFO - appium_actions:click_element - 已点击: 右上角-更多
+2026-10-19 17:10:26 - INFO - appium_actions:wait_for_element - 已定位元素: 移动运营商推广入口
+2026-10-19 17:10:26 - INFO - appium_actions:click_element - 已点击: 移动运营商推广入口
+2026-10-19 17:10:29 - INFO - appium_actions:wait_for_element - 已定位元素: 中国移动xQQ音乐随心听
+2026-10-19 17:10:30 - INFO - appium_actions:click_element - 已点击: 中国移动xQQ音乐随心听
+2026-10-19 17:10:33 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic===
+2026-10-19 17:13:21 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic ===
+2026-10-19 17:13:21 - INFO - test_qq_music_operator_product:test_qq_music_free_traffic - 开始QQ音乐免流服务订购页面进入测试
+2026-10-19 17:13:27 - INFO - appium_actions:wait_for_element - 已定位元素: 我的页面
+2026-10-19 17:13:27 - INFO - appium_actions:click_element - 已点击: 我的页面
+2026-10-19 17:13:29 - INFO - appium_actions:wait_for_element - 已定位元素: 右上角-更多
+2026-10-19 17:13:30 - INFO - appium_actions:click_element - 已点击: 右上角-更多
+2026-10-19 17:13:32 - INFO - appium_actions:wait_for_element - 已定位元素: 移动运营商推广入口
+2026-10-19 17:13:32 - INFO - appium_actions:click_element - 已点击: 移动运营商推广入口
+2026-10-19 17:13:35 - INFO - appium_actions:wait_for_element - 已定位元素: 中国移动xQQ音乐随心听
+2026-10-19 17:13:36 - INFO - appium_actions:click_element - 已点击: 中国移动xQQ音乐随心听
+2026-10-19 17:13:49 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic===
+2026-10-19 17:26:46 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic ===
+2026-10-19 17:26:46 - INFO - test_qq_music_operator_product:test_qq_music_free_traffic - 开始QQ音乐免流服务订购页面进入测试
+2026-10-19 17:26:51 - INFO - appium_actions:wait_for_element - 已定位元素: 我的页面
+2026-10-19 17:26:52 - INFO - appium_actions:click_element - 已点击: 我的页面
+2026-10-19 17:26:54 - INFO - appium_actions:wait_for_element - 已定位元素: 右上角-更多
+2026-10-19 17:26:55 - INFO - appium_actions:click_element - 已点击: 右上角-更多
+2026-10-19 17:26:56 - INFO - appium_actions:wait_for_element - 已定位元素: 移动运营商推广入口
+2026-10-19 17:26:56 - INFO - appium_actions:click_element - 已点击: 移动运营商推广入口
+2026-10-19 17:26:59 - INFO - appium_actions:wait_for_element - 已定位元素: 中国移动xQQ音乐随心听
+2026-10-19 17:27:01 - INFO - appium_actions:click_element - 已点击: 中国移动xQQ音乐随心听
+2026-10-19 17:27:20 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic===
+2026-10-19 17:31:45 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic ===
+2026-10-19 17:31:45 - INFO - test_qq_music_operator_product:test_qq_music_free_traffic - 开始QQ音乐免流服务订购页面进入测试
+2026-10-19 17:31:51 - INFO - appium_actions:wait_for_element - 已定位元素: 我的页面
+2026-10-19 17:31:51 - INFO - appium_actions:click_element - 已点击: 我的页面
+2026-10-19 17:31:54 - INFO - appium_actions:wait_for_element - 已定位元素: 右上角-更多
+2026-10-19 17:31:55 - INFO - appium_actions:click_element - 已点击: 右上角-更多
+2026-10-19 17:31:57 - INFO - appium_actions:wait_for_element - 已定位元素: 移动运营商推广入口
+2026-10-19 17:31:57 - INFO - appium_actions:click_element - 已点击: 移动运营商推广入口
+2026-10-19 17:32:00 - INFO - appium_actions:wait_for_element - 已定位元素: 中国移动xQQ音乐随心听
+2026-10-19 17:32:02 - INFO - appium_actions:click_element - 已点击: 中国移动xQQ音乐随心听
+2026-10-19 17:32:09 - INFO - music_flow:scroll_page_until_visible - 中国移动xQQ音乐随心听活动说明器 已滚入视口
+2026-10-19 17:32:29 - INFO - music_flow:extract_container_text - 已提取中国移动xQQ音乐随心听活动说明器，共 31 段文本
+2026-10-19 17:32:29 - INFO - test_qq_music_operator_product:test_qq_music_free_traffic - 已提取中国移动xQQ音乐随心听活动说明器内容:
+1、优惠活动时间：2026年1月1日-2026年12月31日
+2、产品名称：QQ音乐随心听轻享版
+3、产品资费：首月0.01元，次月起15元/月
+4、资费有效期：本产品资费有效期自办理之日起三年，如双方在有效期届满前无异议，有效期自动续展，每次续展3年。本产品无合约捆绑，退订/销户/携转等无需承担违约责任，无在网期限要求。
+5、产品内容：QQ音乐随心听轻享版每月包含QQ音乐豪华绿钻月卡+5GB QQ音乐定向流量。
+6、适用范围：QQ音乐会员月卡适用于QQ音乐PC端、移动端、PAD端、部分车载端，具体范围可咨询QQ音乐客服。定向流量具体范围滑动至下方“定向流量适用范围说明”查看。
+7、生效时间：订购立即生效，退订次月失效（订购当日一次性扣除，次月起按自然月份，在每月初进行扣费）。
+8、本业务优惠仅能在QQ音乐APP内活动页面办理享受，转发链接无效。
+9、权益领取说明（1）本产品生效期间，每自然月1日起至自然月月底，用户可领取当期权益，未领取则次月不能补领。权益使用规则及有效期等详细内容参见领取页面展示的权益使用说明。权益领取后一般48小时到账，具体以短信通知为主请保持手机号码状态正常(避免欠费、停机等)，避免权益领取失败；2024年7月起，新办理的客户权益领取规则如下：订购当月并完成领取的用户，次月起至第6个月，每月10号前系统自动发放权益至手机号(共计发放5个月)，若手机号状态异常，待账户正常后会在当月自动进行补发。连续订购至第7个月起，用户需至指定领取入口领取权益(用户状态正常)。自动发放权益须以用户当月仍处于订购状态为前提，如用户中途退订，则当月及后续月份将不再自动发放该活动项下的会员权益。订购当月未领取用户，用户需每月至指定领取入口领取权益(用户状态正常)，不实行“第2-6个月"自动发放规则（2）权益领取入口：*登录“中国移动APP-我的一我的权益-产品权益一全网随心系”进行权益领取;
+10、退订及会员回收说明（1）订购立即生效，豪华绿钻权益按月自动续订，退订后次月不再扣费（订购当日一次性扣除 0.01 元，次月起按自然月份，在每月初进行扣费 15 元/月），若订购首月已领取会员后退订，首月会员权益将于退订成功后 48 小时内终止，自终止时点起不再享有首月剩余天数的会员服务。用户已在终止前实际享受的会员服务不受影响。次月起退订产品不执行“48小时内终止会员服务”策略，权益有效期至当月权益到期截止。
+2026-10-19 17:32:30 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic===
+2026-10-19 17:43:43 - INFO - conftest:log_test_module - === 开始执行测试模块: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic ===
+2026-10-19 17:43:43 - INFO - test_qq_music_operator_product:test_qq_music_free_traffic - 开始QQ音乐免流服务订购页面进入测试
+2026-10-19 17:43:50 - INFO - appium_actions:wait_for_element - 已定位元素: 我的页面
+2026-10-19 17:43:50 - INFO - appium_actions:click_element - 已点击: 我的页面
+2026-10-19 17:43:52 - INFO - appium_actions:wait_for_element - 已定位元素: 右上角-更多
+2026-10-19 17:43:53 - INFO - appium_actions:click_element - 已点击: 右上角-更多
+2026-10-19 17:43:55 - INFO - appium_actions:wait_for_element - 已定位元素: 移动运营商推广入口
+2026-10-19 17:43:55 - INFO - appium_actions:click_element - 已点击: 移动运营商推广入口
+2026-10-19 17:43:58 - INFO - appium_actions:wait_for_element - 已定位元素: 中国移动xQQ音乐随心听
+2026-10-19 17:43:59 - INFO - appium_actions:click_element - 已点击: 中国移动xQQ音乐随心听
+2026-10-19 17:44:07 - INFO - music_flow:scroll_page_until_container_fully_visible - 中国移动xQQ音乐随心听活动说明器 已完整进入视口: [68, 1641, 1140, 2619]
+2026-10-19 17:44:36 - INFO - music_flow:extract_container_text - 已提取中国移动xQQ音乐随心听活动说明器，共 90 段文本
+2026-10-19 17:44:36 - INFO - test_qq_music_operator_product:test_qq_music_free_traffic - 已提取中国移动xQQ音乐随心听活动说明器内容:
+1、优惠活动时间：2026年1月1日-2026年12月31日
+2、产品名称：QQ音乐随心听轻享版
+3、产品资费：首月0.01元，次月起15元/月
+4、资费有效期：本产品资费有效期自办理之日起三年，如双方在有效期届满前无异议，有效期自动续展，每次续展3年。本产品无合约捆绑，退订/销户/携转等无需承担违约责任，无在网期限要求。
+5、产品内容：QQ音乐随心听轻享版每月包含QQ音乐豪华绿钻月卡+5GB QQ音乐定向流量。
+6、适用范围：QQ音乐会员月卡适用于QQ音乐PC端、移动端、PAD端、部分车载端，具体范围可咨询QQ音乐客服。定向流量具体范围滑动至下方“定向流量适用范围说明”查看。
+7、生效时间：订购立即生效，退订次月失效（订购当日一次性扣除，次月起按自然月份，在每月初进行扣费）。
+8、本业务优惠仅能在QQ音乐APP内活动页面办理享受，转发链接无效。
+9、权益领取说明（1）本产品生效期间，每自然月1日起至自然月月底，用户可领取当期权益，未领取则次月不能补领。权益使用规则及有效期等详细内容参见领取页面展示的权益使用说明。权益领取后一般48小时到账，具体以短信通知为主请保持手机号码状态正常(避免欠费、停机等)，避免权益领取失败；2024年7月起，新办理的客户权益领取规则如下：订购当月并完成领取的用户，次月起至第6个月，每月10号前系统自动发放权益至手机号(共计发放5个月)，若手机号状态异常，待账户正常后会在当月自动进行补发。连续订购至第7个月起，用户需至指定领取入口领取权益(用户状态正常)。自动发放权益须以用户当月仍处于订购状态为前提，如用户中途退订，则当月及后续月份将不再自动发放该活动项下的会员权益。订购当月未领取用户，用户需每月至指定领取入口领取权益(用户状态正常)，不实行“第2-6个月"自动发放规则（2）权益领取入口：*登录“中国移动APP-我的一我的权益-产品权益一全网随心系”进行权益领取;
+10、退订及会员回收说明（1）订购立即生效，豪华绿钻权益按月自动续订，退订后次月不再扣费（订购当日一次性扣除 0.01 元，次月起按自然月份，在每月初进行扣费 15 元/月），若订购首月已领取会员后退订，首月会员权益将于退订成功后 48 小时内终止，自终止时点起不再享有首月剩余天数的会员服务。用户已在终止前实际享受的会员服务不受影响。次月起退订产品不执行“48小时内终止会员服务”策略，权益有效期至当月权益到期截止。（2）退订路径:如需退订可通过“中国移动APP-我的-已订业务”或拨打10086退订，也可前往线下营业厅操作退订。（3） 关于“终止剩余权益”的服务示例（以下示例仅用于说明退订后会员到期时间如何变化，实际以系统记录为准）：服务实例：张先生7月1日订购本产品生效并且领取了QQ音乐会员，在7月内进行了业务退订。则QQ音乐将回收张先生7月截止退订当日，本月卡剩余的会员有效期。情况一：张先生是非会员用户，7月1日订购本产品并且7月1日领取了会员，QQ音乐会员服务有效期是7月1日—7月31日。l 若张先生于 7 月 15 日退订，则本次活动可享会员权益自退订成功后 48 小时内终止，终止前（含 7 月 15 日之前）已享受的会员服务不受影响，终止后不再继续享受本次活动可享的会员服务。情况二、张先生是会员用户，原会员有效期至7月31日，7月1日订购了业务并领取了会员月卡，有效期延长至8月31日。l 若张先生在首月内退订（例如 7 月 15 日退订），则本次活动对会员有效期的延长不再生效，会员到期时间恢复为原到期日 7 月 31 日。张先生在 7 月 1 日至 7 月 31 日期间作为会员已享受的服务不受影响。情况三、张先生原会员有效期至7月10日，7 月 1 日订购本产品并领取本活动可享的首月会员后，会员有效期延长至 8 月 10 日。l 若张先生在首月内退订（例如 7 月 15 日退订），则本次活动所赠首月会员权益将自退订成功后 48 小时内终止。终止后，如张先生原有会员已于 7 月 10 日到期，则不再继续享有会员服务。终止前已享受的会员服务不受影响。（4）重要提示：首月订购并领取本活动可享会员的用户，如选择在首月退订，将视为放弃本活动首月剩余会员权益。请在订购前仔细阅读本规则，确认后再办理。
+11、权益使用说明（1）领取QQ音乐会员权益，需要登录QQ音乐账号并绑定手机号，权益自绑定之日起自动生效。权益领取成功后，权益自动到【订购手机号】内；【订购手机号】已绑定QQ音乐账户，权益自动生效；【订购手机号】未绑定QQ音乐账户，成功绑定QQ音乐账户起立即生效。（2）您可以选择使用【订购手机号】或QQ音乐账号登录QQ音乐APP，点击【我的】-【会员】-【个人中心】，即可查看会员有效期。（3）如权益未到账，请查验【订购手机号】与QQ音乐账号绑定关系，未绑定用户可参考以下方式绑定：◎方式一、使用【订购手机号】登录QQ音乐APP，关联QQ音乐账户，手机号自动绑定；◎方式二、QQ音乐客户端内登录账号，点击【我的】-【设置】-【个人资料】-【订购手机号】进行绑定，绑定后可在QQ音乐客户端查看权益到账情况；◎方式三、点击 https://y.qq.com/m/basic/client/phonebind/index.html 绑定账号。
+12、流量使用说明（1）定向流量优先于套餐通用流量，使用定向流量时优先使用本次产品的定向流量，单系定向流量的使用优先于多系共享的定向流量产品;（2）本产品定向流量不结转、不能与他人共享、不能转赠，不可回溯办理前已使用流量。产品包含的定向流量仍遵循客户基础套餐的封顶，限速规则（3）定向流量首月48小时内自动下发至订购手机账号，后续每月月初自动下发，使用范围为国内(不含中国港澳台)。定向流量有效期至自然月月底，当月未使用部分清零。查看路径:登录“中国移动APP-首页-余量查询-流量”进行查看。
+13、办理限制（1）同一时间，每位用户仅可订购1个同系列的随心系产品，但可以订购多个不同系列的随心享产品。即QQ音乐随心听、QQ音乐随心听促销包、QQ音乐随心听轻享版产品不可同时订购（2）本产品为中国移动用户专享（不含港澳台地区），其中非个人客户（行业卡、物联网卡等）、欠费客户、余额不足于扣费金额的预付费客户、信用额度不足于扣费金额的后付费客户不能订购。（3）部分套餐（如WAP不限量套餐等）无法办理，广东省客户如为2/3G不限量套餐、4G随心王客户等不可办理，如需办理，需先主动取消以上套餐生效后方可办理，具体办理规则请详询10086。（4）为保证您的权益，每月最后一天20:00～23:59不开放本业务受理;
+14、因权益方内部调整，我们可能会变更、终止与权益方的合作，您可能无法继续通过中国移动接受该权益方提供产品。届时您已订购的产品可通过后台帮您进行退订或退费，同时公司将会及时公告或告知，给您带来的不便，敬请谅解。
+15、中国移动可能会根据本服务的整体规划，对本服务相关权益细则（包括但不限于权益名称、权益发放方式）进行修改和变更，前述修改、变更的内容，中国移动将在相应服务页面公示或以其他合理方式及时告知，请您及时阅读查看。
+16、本产品由号码归属地移动省公司负责，产品资费是否纳入保底消费，具体以各省公司账务规则为准，详询当地10086。
+17、本活动与苹果公司（Apple Inc.）无关。
+18、山西、江西、青海、贵州、甘肃、吉林用户暂时无法办理
+19、其他未尽事宜，详询10086。定向流量说明：QQ音乐请在WIFI功能关闭下使用定向流量功能，避免WIFI和移动网络频繁切换导致定向流量服务启动失败。1.中国移动网络下，定向流量使用范围1）移动用户在2G/3G/4G/5G网络下，只支持音、视频播放、下载、图片免流量，可享受定向流量在线试听/下载歌曲、MV、电台、铃声、皮肤、歌词下载和游戏下载等服务。2）QQ音乐随心听体验包内包含5GB专属定向流量月包，定向流量范围包括QQ音乐、腾讯视频、和平精英等APP。具体定向流量APP清单随中国移动业务合作情况或将发生变动，以实际为准。不可使用定向流量范围1）首页K歌不停部分和歌曲播放页k各部分2）直播3）H5页面3.其他不包含在定向免流范围情形1） 客户端启动、登录；客户端内的插播广告（图片、文字及视频），弹幕，第三方的广告或直播、主播类视频，在线观看和下载缓存的第三方视频等。2）手机码处于国际或中国港澳台地区漫游状态下产生的流量。3）利用手机设置代理服务器或VPN等方式，访问APP所产生的流量。4）用无线上网卡、平板电脑、CPE、MIFI等非手机设备使用产生的流量。5）手机作为热点使用产生的流量。6）使用CMWAP接入点方式，访问视频APP所产生的流量。7）号码处于国际或中国港澳台地区漫游状态下产生的流量。8）跳转应用宝以及appstore等跳出后也不免流量，页面最下面广告位不免流量
+2026-10-19 17:44:37 - INFO - conftest:log_test_module - === 测试模块执行完毕: test_qq_music_operator_product / 测试函数: test_qq_music_free_traffic===
